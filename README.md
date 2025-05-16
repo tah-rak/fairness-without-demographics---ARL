@@ -91,16 +91,27 @@ Traditional fairness techniques require demographic labels. However, **in many r
 ---
 
 ## 📁 Project Structure
+
 ARL-Reproduction/
+
 ├── arl_core/ # ARL model and learner-adversary logic
+
 ├── data_input/
+
 │ ├── uciadult_input.py
+
 │ ├── facebook_input.py
+
 │ └── police_input.py
+
 ├── datasets/ # Raw and processed datasets
+
 ├── results/ # Metrics and plots
+
 ├── requirements.txt
-├── Fair_ML_ARL_Report.pdf
+
+├── ReadMe.pdf
+
 └── README.md
 
 
