@@ -105,3 +105,19 @@ ARL-Reproduction/
 
 
 
+---
+
+## 📌 How to Run
+
+1. Set up virtual environment with Python 3.6.8
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+Preprocess dataset using appropriate input file
+
+Run training using main_trainer.py with desired config
+
+View results in /results/
+
+
