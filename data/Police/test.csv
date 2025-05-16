@@ -1,0 +1,762 @@
+id,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera
+1602,1602,Carlos Garcia,08/06/16,Gunshot,gun,43.0,M,Hispanic,Kansas City,MO,,attack,Not fleeing,False
+1985,1985,Kenny Tomblin,23/10/16,Gunshot,gun,38.0,M,White,Edmonton,KY,,attack,Not fleeing,False
+2581,2581,Jonie Block,15/05/17,Gunshot,gun,27.0,F,Other,Phoenix,AZ,,other,Not fleeing,False
+1582,1582,Dennis Humphrey,28/05/16,Gunshot,gun,58.0,M,White,Albuquerque,NM,,attack,Not fleeing,True
+1566,1566,Doll Pierre-Louis,25/05/16,Gunshot,vehicle,24.0,M,Other,Miami Gardens,FL,,other,Car,False
+2421,2421,Rashad Daquan Opher,13/03/17,Gunshot,vehicle,20.0,M,Other,Woodlawn,MD,,other,Other,True
+1680,1680,Alton Sterling,05/07/16,Gunshot & Taser,undetermined,37.0,M,Other,Baton Rouge,LA,,undetermined,Not fleeing,True
+835,835,Rory Lynn Gunderman,16/09/15,Gunshot,gun,31.0,M,White,Lead,SD,,attack,Foot,False
+276,276,Cedrick Lamont Bishop,09/03/15,Gunshot,gun,30.0,M,Other,Cocoa,FL,,attack,Not fleeing,False
+2601,2601,Jorge Alberto Fuentes,23/05/17,Gunshot & Taser,gun,21.0,M,Hispanic,Glendale,AZ,,attack,Other,False
+2256,2256,Jeremy Lopez-Robledo,24/01/17,Gunshot,knife,29.0,M,Hispanic,Las Cruces,NM,,attack,Foot,True
+1529,1529,Derek J. Sam,07/05/16,Gunshot & Taser,knife,29.0,M,Other,Presque Isle,ME,,other,Not fleeing,False
+1331,1331,Travis Boyd Bradley,02/03/16,Gunshot,unarmed,36.0,M,White,Bel Air,MD,,other,Not fleeing,False
+2089,2089,Bradley King,29/11/16,Gunshot,knife,29.0,M,White,Avon,IN,,other,Not fleeing,False
+783,783,Robert Hober,27/08/15,Gunshot,box cutter,54.0,M,White,San Diego,CA,,other,Not fleeing,True
+1666,1666,Sherman Evans,27/06/16,Gunshot,toy weapon,63.0,M,Other,Washington,DC,,attack,Not fleeing,True
+1129,1129,Daquan Antonio Westbrook,24/12/15,Gunshot,gun,18.0,M,Other,Charlotte,NC,,attack,Not fleeing,False
+1026,1026,Chris Nichols,21/11/15,Gunshot,unarmed,24.0,M,White,Colbert,OK,,attack,Foot,False
+1089,1089,Enrique Gonzalez,13/12/15,Gunshot,gun,32.0,M,Hispanic,Mountain View,CO,,attack,Not fleeing,False
+2258,2258,Jose Efrain Rodriguez,24/01/17,Gunshot & Taser,gun,18.0,M,Hispanic,Lancaster City,PA,,attack,Not fleeing,False
+1085,1085,Calvin McKinnis,14/12/15,Gunshot,gun,33.0,M,Other,New Orleans,LA,,attack,Not fleeing,True
+984,984,James Bigley,05/11/15,Gunshot,gun,20.0,M,White,Hominy,OK,,attack,Car,False
+2628,2628,Corsean Lewis,02/06/17,Gunshot,gun,17.0,M,Other,Chicago,IL,,attack,Not fleeing,False
+1361,1361,Keith Montgomery Jr.,13/03/16,Gunshot,gun,24.0,M,Other,Chester,PA,,attack,Not fleeing,False
+1453,1453,Quron Williams,09/04/16,Gunshot,gun,19.0,M,Other,Philadelphia,PA,,attack,Foot,False
+84,84,Paul Campbell,19/01/15,Gunshot,knife,49.0,M,White,Weymouth,MA,,attack,Not fleeing,False
+1242,1242,Ronald Barawis,05/02/16,Gunshot,vehicle,38.0,M,Other,Hilo,HI,,other,Car,False
+1005,1005,Michael Joseph Bartkiewicz,13/11/15,Gunshot,toy weapon,52.0,M,White,Gibson County,TN,,attack,Not fleeing,False
+1801,1801,Trenton Lohman,18/08/16,Gunshot,gun,38.0,M,White,Poway,CA,,attack,Car,False
+986,986,Michael  Johnson,06/11/15,Gunshot,gun,51.0,M,White,Portland,OR,,attack,Not fleeing,False
+2537,2537,Tim A. Holmgren,27/04/17,Gunshot,gun,53.0,M,White,Rapid City,SD,,attack,Not fleeing,False
+1365,1365,Marco Loud,12/03/16,Gunshot & Taser,Taser,20.0,M,Other,Houston,TX,,attack,Not fleeing,False
+592,592,John Deming,05/07/15,Gunshot,unarmed,19.0,M,White,Pleasanton,CA,,attack,Foot,False
+1704,1704,Jason Brooks,11/07/16,Gunshot,gun,41.0,M,Other,East St. Louis,IL,,attack,Not fleeing,False
+906,906,Anthony Aguilar,10/10/15,Gunshot & Taser,unknown weapon,35.0,M,Hispanic,Lisle,IL,,undetermined,Not fleeing,False
+105,105,Daryl Myler,24/01/15,Gunshot,gun,45.0,M,White,Rexburg,ID,,attack,Not fleeing,False
+2642,2642,Isaiah M. Hammett,07/06/17,Gunshot,gun,21.0,M,White,St. Louis,MO,,attack,Not fleeing,False
+810,810,Mohamed Ibrahim,06/09/15,Gunshot,gun,28.0,M,Other,Shreveport,LA,,attack,Car,False
+1683,1683,Sidney Washington,04/07/16,Gunshot,gun,21.0,M,Other,Washington,DC,,attack,Not fleeing,False
+641,641,Charles Crandall,14/07/15,Gunshot,gun,76.0,M,Other,Southington,OH,,attack,Not fleeing,False
+873,873,Alberto Hernandez,28/09/15,Gunshot,toy weapon,59.0,M,Hispanic,San Ysidro,CA,,attack,Not fleeing,True
+174,174,Michael Wayne Smashey,23/02/15,Gunshot,knife,37.0,M,White,Powder Springs,GA,,other,Not fleeing,False
+2704,2704,Jesus Ramon Deltoro,23/06/17,Gunshot,vehicle,34.0,M,Hispanic,Phoenix,AZ,,attack,Car,False
+1222,1222,Philip B. Salazar,30/01/16,Gunshot,scissors,38.0,M,Hispanic,Fort Collins,CO,,other,Not fleeing,False
+1749,1749,Mario Martinez Torres,31/07/16,Gunshot,undetermined,38.0,M,Hispanic,Wapato,WA,,undetermined,Not fleeing,False
+1260,1260,Anthony Bertoni,10/02/16,Gunshot,gun,56.0,M,Other,Henderson County,TX,,attack,Not fleeing,False
+685,685,Earl Jackson,25/07/15,Gunshot,gun,59.0,M,Other,Micanopy,FL,,attack,Not fleeing,False
+1214,1214,William A. Adams,28/01/16,Gunshot,gun,33.0,M,White,Omaha,NE,,attack,Foot,False
+561,561,Kenneth Lanphier,17/06/15,Gunshot,gun,48.0,M,White,Hobbs,NM,,attack,Not fleeing,False
+2502,2502,Charles Spands,14/04/17,Gunshot,gun,35.0,M,White,Spanaway,WA,,other,Car,False
+2267,2267,Deaundre Phillips,26/01/17,Gunshot,undetermined,24.0,M,Other,Atlanta,GA,,other,Car,True
+2219,2219,Herbert Johnson,15/01/17,Gunshot,gun,34.0,M,Other,Chicago,IL,,attack,Foot,False
+1900,1900,Michelle Miller,19/09/16,Gunshot,gun,46.0,F,White,Spring,TX,,attack,Not fleeing,True
+1295,1295,Justin Patrick Moses,19/02/16,Gunshot,knife,35.0,M,White,Ogden,UT,,attack,Not fleeing,False
+2075,2075,Walter R. Echols,27/11/16,Gunshot & Taser,blunt object,50.0,M,White,Olathe,KS,,attack,Not fleeing,False
+272,272,Aurelio Duarte,08/03/15,Gunshot,gun,40.0,M,Hispanic,Oklahoma City,OK,,attack,Not fleeing,False
+1667,1667,Blake Peacock,27/06/16,Gunshot,gun,32.0,M,White,Cochran,GA,,attack,Not fleeing,False
+1004,1004,John David Livingston,15/11/15,Gunshot & Taser,Taser,32.0,M,White,Spring Lake,NC,,attack,Not fleeing,False
+258,258,Adrian Hernandez,27/03/15,Gunshot,toy weapon,23.0,M,Hispanic,Bakersfield,CA,,attack,Car,False
+515,515,Demouria Hogg,06/06/15,Gunshot & Taser,gun,30.0,M,Other,Oakland,CA,,attack,Not fleeing,True
+2170,2170,Judy Boardman,27/12/16,Gunshot,gun,71.0,F,White,Pearland,TX,,attack,Not fleeing,False
+1404,1404,Robert L. Dussourd,24/03/16,Gunshot,knife,44.0,M,White,Braintree,MA,,other,Foot,False
+2413,2413,Mark Robert Carlberg,11/03/17,Gunshot,gun,51.0,M,White,Midlothian,TX,,attack,Not fleeing,False
+1702,1702,Alva Burnett Braziel,10/07/16,Gunshot,gun,38.0,M,Other,Houston,TX,,other,Not fleeing,True
+618,618,Joshua Blough,07/07/15,Gunshot,knife,28.0,M,White,Elizabethtown,KY,,other,Not fleeing,False
+787,787,James Marcus Brown,29/08/15,Gunshot,gun,25.0,M,Other,North Las Vegas,NV,,attack,Foot,False
+2616,2616,Joseph Zimmerman,26/05/17,Gunshot,toy weapon,34.0,M,White,Tucson,AZ,,attack,Not fleeing,False
+1263,1263,Mohamed Barry,11/02/16,Gunshot,machete,30.0,M,Other,Columbus,OH,,attack,Car,False
+2394,2394,Christopher Redding,28/02/17,Gunshot,gun,20.0,M,Other,Orlando,FL,,attack,Foot,False
+1470,1470,George Tillman,17/04/16,Gunshot,gun,32.0,M,Other,New York,NY,,attack,Foot,False
+83,83,Carter Castle,18/01/15,Gunshot & Taser,gun,67.0,M,White,Gunlock,KY,,attack,Not fleeing,False
+1774,1774,Juan J. Godines,08/08/16,Gunshot,undetermined,34.0,M,Hispanic,Georgetown,KY,,attack,Other,False
+2042,2042,James Dale Ritchie,12/11/16,Gunshot,gun,40.0,M,White,Anchorage,AK,,attack,Not fleeing,False
+1676,1676,Kawme Dejuan Patrick,30/06/16,Gunshot,gun,25.0,M,Other,Columbus,OH,,undetermined,,False
+1782,1782,Jesus Armando Carillo,12/08/16,Gunshot,undetermined,22.0,M,Hispanic,Mesa,AZ,,other,Car,False
+1624,1624,Mohammad Moghaddam,14/06/16,Gunshot,gun,54.0,M,Other,Amarillo,TX,,attack,Not fleeing,False
+1807,1807,David Klassen,18/08/16,Gunshot,gun,29.0,M,White,Ruidoso,NM,,other,Not fleeing,False
+2732,2732,TK TK,03/07/17,Gunshot,gun,,M,Other,Fishers,IN,,attack,Not fleeing,False
+2468,2468,Troy Boyle,29/03/17,Gunshot,gun,41.0,M,White,Stockton,IL,,attack,Car,False
+2287,2287,Gerardo Vasquez,06/02/17,Gunshot & Taser,knife,52.0,M,Hispanic,Santa Monica,CA,,attack,Foot,False
+2556,2556,Nicholas Flusche,03/05/17,Gunshot,knife,26.0,M,White,San Francisco,CA,,attack,Not fleeing,True
+367,367,Frank Shephard,15/04/15,Gunshot,unarmed,41.0,M,Other,Houston,TX,,other,Car,False
+252,252,Byron Herbert,29/03/15,Gunshot,gun,29.0,M,Other,Elizabethtown,KY,,attack,Not fleeing,False
+2361,2361,David English,17/02/17,Gunshot,knife,34.0,M,White,Tulsa,OK,,attack,Not fleeing,False
+1007,1007,Ernesto Gamino,13/11/15,Gunshot,undetermined,25.0,M,Hispanic,Jurupa Valley,CA,,undetermined,,False
+2241,2241,Elijah Smith,19/01/17,Gunshot & Taser,knife,25.0,M,White,Florissant,MO,,attack,Not fleeing,False
+1561,1561,Bodhi Wilson Dean Phelps,24/05/16,Gunshot,knife,22.0,M,White,Gresham,OR,,other,Not fleeing,False
+1488,1488,Eric C. Wakup,23/04/16,Gunshot,gun,30.0,M,White,Norfolk,VA,,attack,Not fleeing,False
+740,740,Asshams Pharoah Manley,14/08/15,Gunshot,unarmed,30.0,M,Other,District Heights,MD,,attack,Foot,False
+637,637,Billy Maine,11/07/15,Gunshot,gun,31.0,M,White,Olivehurst,CA,,attack,Not fleeing,False
+2656,2656,Johnny Platas,12/06/17,Gunshot & Taser,knife,45.0,M,Hispanic,Selma,CA,,other,Not fleeing,False
+2531,2531,Jacy Kevin McManus,24/04/17,Gunshot,unarmed,35.0,M,White,Wolf Creek,OR,,attack,Not fleeing,False
+1794,1794,Francisco Villarreal,18/08/16,Gunshot,gun,37.0,M,Hispanic,Bakersfield,CA,,attack,Car,False
+2238,2238,Jorge Victor,22/01/17,Gunshot,gun,33.0,M,Hispanic,Carson,CA,,other,Not fleeing,False
+2164,2164,TK TK,24/12/16,Gunshot,gun,,M,Other,Gadsden,AL,,attack,Foot,False
+1750,1750,Korryn Gaines,01/08/16,Gunshot,gun,23.0,F,Other,Randallstown,MD,,attack,Not fleeing,False
+1964,1964,Patrick D. Reddeck,13/10/16,Gunshot,gun,38.0,M,White,Kent,WA,,other,Not fleeing,False
+1438,1438,Kevin Hicks,05/04/16,Gunshot,unarmed,44.0,M,Other,Indianapolis,IN,,attack,Not fleeing,True
+525,525,Jeremy Linhart,09/06/15,Gunshot,unarmed,30.0,M,White,Findlay,OH,,attack,Not fleeing,False
+2517,2517,Jose Trejo,20/04/17,Gunshot,gun,,M,Hispanic,Hardeeville,SC,,attack,Not fleeing,False
+622,622,Rocco Joseph Palmisano,09/07/15,Gunshot,gun,50.0,M,White,Parowan,UT,,attack,Not fleeing,False
+495,495,Luis Martinez,21/04/15,Gunshot,knife,35.0,M,Hispanic,Los Angeles,CA,,other,Not fleeing,False
+382,382,Thaddeus McCarroll,17/04/15,Gunshot,knife,23.0,M,Other,Jennings,MO,,other,Not fleeing,True
+2699,2699,Cameron Ollman,24/06/17,Gunshot,gun,37.0,M,White,Florence,OR,,attack,Car,False
+573,573,Tyler Wicks,22/06/15,Gunshot,gun,29.0,M,White,Augusta,GA,,attack,Not fleeing,False
+1076,1076,Christopher Goodlow,12/12/15,Gunshot,knife,25.0,M,Other,Indianapolis,IN,,attack,Not fleeing,False
+1241,1241,Phillip Luchsinger,07/02/16,Gunshot,gun,36.0,M,White,Austin,AR,,other,Not fleeing,False
+852,852,Dominic Fuller,21/09/15,Gunshot,stapler,34.0,M,Hispanic,Auburndale,FL,,other,Foot,False
+2259,2259,Ramon Milanez,24/01/17,Gunshot,gun,32.0,M,Hispanic,Kuna,ID,,attack,Car,False
+1283,1283,John Tozzi,24/10/15,Gunshot,gun,,M,Other,New Paltz,NY,,attack,Not fleeing,False
+763,763,Thaddeus Faison,22/08/15,Gunshot & Taser,gun,39.0,M,Other,Troy,NY,,attack,Foot,False
+2021,2021,Russell Elswick,05/11/16,Gunshot,gun,56.0,M,White,Clendenin,WV,,attack,Not fleeing,False
+2783,2783,Ernesto Sedillo,17/07/17,Gunshot,gun,52.0,M,Other,Las Cruces,NM,,attack,Not fleeing,False
+204,204,Monique Jenee Deckard,08/03/15,Gunshot,knife,43.0,F,Other,Anaheim,CA,,other,Not fleeing,True
+1581,1581,Tk Tk,26/05/16,Gunshot,knife,,F,Other,Sneads,FL,,other,Not fleeing,False
+913,913,Michelle Marie Burg,14/10/15,Gunshot,gun,46.0,F,White,Naples,FL,,attack,Car,False
+413,413,David Parker,28/04/15,Gunshot,gun,58.0,M,White,Mansfield,OH,,attack,Not fleeing,False
+1245,1245,Shalamar Longer,08/02/16,Gunshot,gun,33.0,M,Other,Chester,PA,,attack,Car,False
+1687,1687,Steven McQueen,01/07/16,Gunshot & Taser,gun,30.0,M,White,Cartersville,GA,,attack,Not fleeing,False
+1656,1656,Daniel Reyes,26/06/16,Gunshot,knife,27.0,M,Hispanic,Thomaston,CT,,other,Not fleeing,False
+2559,2559,Jose Hernandez-Rossy,07/05/17,Gunshot,unarmed,26.0,M,Hispanic,Buffalo,NY,,attack,Foot,False
+1906,1906,Thomas Tucker,20/09/16,Gunshot,gun,49.0,M,White,Westminster,CO,,other,Foot,False
+131,131,John Martin Whittaker,08/02/15,Gunshot,gun,33.0,M,White,Anchorage,AK,,attack,Car,False
+511,511,Ronald Neal,03/06/15,Gunshot,gun,56.0,M,White,Byram,NJ,,attack,Not fleeing,False
+533,533,Shawn Clyde,01/04/15,Gunshot,knife,36.0,M,White,Hamilton,NJ,,attack,Not fleeing,False
+2729,2729,Daniel Craven,03/07/17,Gunshot,gun,53.0,M,Other,Spokane,WA,,other,Not fleeing,True
+777,777,Brent Pickard,26/08/15,Gunshot,gun,46.0,M,White,Chattanooga,TN,,attack,Car,False
+646,646,Antonio Gonzalez,16/07/15,Gunshot,sword,29.0,M,Hispanic,Wauwatosa,WI,,other,Not fleeing,False
+1834,1834,Melvin Faison,29/07/16,Gunshot,gun,59.0,M,White,Pleasant Hill,NC,,attack,Not fleeing,False
+987,987,Laura Lemieux,05/11/15,Gunshot,gun,36.0,F,White,Goose Creek,SC,,attack,Not fleeing,False
+746,746,Steven B. Norton,16/08/15,Gunshot,gun,47.0,M,White,Kerrville,TX,,attack,Not fleeing,False
+1996,1996,William Clifford Cole,26/10/16,Gunshot & Taser,unarmed,36.0,M,White,Bartlesville,OK,,attack,Not fleeing,False
+1046,1046,Somer Speer,25/11/15,Gunshot,gun,37.0,F,White,Ozark,MO,,attack,Not fleeing,False
+792,792,William Rippley,31/08/15,Gunshot,knife,45.0,M,White,Loveland,CO,,attack,Foot,False
+2739,2739,Dana Dubose,04/07/17,Gunshot,knife,36.0,M,Other,Vandalia,OH,,attack,Not fleeing,False
+300,300,Paul Anderson,04/04/15,Gunshot,gun,31.0,M,Other,Orange,CA,,attack,Not fleeing,True
+206,206,Theodore Johnson,10/03/15,Gunshot,gun,64.0,M,Other,Cleveland,OH,,attack,Not fleeing,True
+2438,2438,Benjamin Christian Barnes,18/03/17,Gunshot,gun,42.0,M,White,Boise,ID,,attack,Not fleeing,False
+1220,1220,Bruce Kelley,31/01/16,Gunshot & Taser,knife,37.0,M,Other,Wilkinsburg,PA,,attack,Not fleeing,False
+651,651,Albert Joseph Davis,17/07/15,Gunshot & Taser,unarmed,23.0,M,Other,Orlando,FL,,attack,Foot,False
+1872,1872,Francis Perry,08/09/16,Gunshot,gun,32.0,M,White,Lakeland,FL,,attack,Not fleeing,False
+551,551,Zane Terryn,14/06/15,Gunshot,gun,15.0,M,White,Cocoa,FL,,attack,Not fleeing,False
+1544,1544,Luke Sanders,17/05/16,Gunshot,ax,36.0,M,White,Siskiyou County,CA,,other,Not fleeing,False
+896,896,Donald Miller II,06/10/15,Gunshot,gun,39.0,M,Other,Monterey,CA,,attack,Not fleeing,False
+1275,1275,Christopher Andrews,16/02/16,Gunshot,knife,51.0,M,White,Fairfield,CT,,other,Not fleeing,False
+2193,2193,Richard A. Jackson,04/01/17,Gunshot,vehicle,45.0,M,White,English,IN,,other,Car,False
+1741,1741,Jeffrey Smith,28/07/16,Gunshot,,47.0,M,Other,La Quinta,CA,,other,Car,False
+1735,1735,Devon Martes,27/07/16,Gunshot,gun,17.0,M,Other,Metairie,LA,,attack,Foot,False
+2068,2068,Talif Scudder,22/11/16,Gunshot,gun,23.0,M,Other,Newark,NJ,,attack,Not fleeing,False
+2621,2621,James Daniel Hill,31/05/17,Gunshot,gun,17.0,M,White,Centennial,CO,,other,Other,False
+289,289,Andrew Driver,13/03/15,Gunshot,knife,36.0,M,White,Fontana,CA,,attack,Not fleeing,False
+563,563,Joe Charboneau,16/06/15,Gunshot,gun,31.0,M,Other,Wood Lake,ND,,attack,Not fleeing,False
+2345,2345,Mauro Garnica,15/02/17,Gunshot,unknown weapon,55.0,M,Hispanic,Newman,CA,,attack,Not fleeing,False
+1501,1501,Ashtian Barnes,28/04/16,Gunshot,vehicle,24.0,M,Other,Houston,TX,,other,Car,False
+1956,1956,Kim Jackson,08/10/16,Gunshot,knife,53.0,F,White,Modesto,CA,,attack,Not fleeing,False
+299,299,Christopher Prevatt,03/04/15,Gunshot,knife,38.0,M,White,Winchester,VA,,other,Not fleeing,True
+210,210,Troy Ray Boyd,15/03/15,Gunshot,machete,27.0,M,White,Ruth,MS,,other,Not fleeing,False
+1869,1869,Jesse Daniel Joynt,07/09/16,Gunshot,undetermined,35.0,M,White,Titusville,FL,,undetermined,Not fleeing,False
+586,586,Clay Alan  Lickteig,30/06/15,Gunshot,gun,52.0,M,White,Franklin,NC,,attack,Not fleeing,False
+2778,2778,Gerber Dieguez,15/07/17,Gunshot,undetermined,29.0,M,Other,Los Angeles,CA,,undetermined,Foot,False
+889,889,Christian Pena,02/10/15,Gunshot & Taser,knife,26.0,M,Hispanic,Rialto,CA,,attack,Not fleeing,False
+2119,2119,Brent Quinn,09/12/16,Gunshot,gun,,M,White,Leland,NC,,attack,Not fleeing,False
+1146,1146,James K. Maher,05/01/16,Gunshot,knife,39.0,M,White,Johnson City,TN,,other,Foot,False
+2133,2133,Ryan Joseph,18/12/16,Gunshot,undetermined,20.0,M,Other,Los Angeles,CA,,undetermined,Foot,False
+2039,2039,Brian Gaither,11/11/16,Gunshot,vehicle,24.0,M,White,Grand Junction,CO,,attack,Car,False
+644,644,Samuel Smith,17/07/15,Gunshot,knife,27.0,M,White,Seattle,WA,,other,Foot,False
+610,610,John Leonard Berry,06/07/15,Gunshot & Taser,vehicle,31.0,M,White,Lakewood,CA,,attack,Other,False
+2194,2194,Luis Vargas,05/01/17,Gunshot,gun,20.0,M,Hispanic,Dinuba,CA,,attack,Not fleeing,False
+1422,1422,Denise Fairchild,29/03/16,Gunshot,gun,50.0,F,White,Aitkin,MN,,attack,Not fleeing,False
+1508,1508,Marion Habana,30/04/16,Gunshot,knife,28.0,M,Black,Los Angeles,CA,,other,Not fleeing,True
+155,155,Roy Joy Day,14/02/15,Gunshot,gun,51.0,M,White,Laredo,TX,,attack,Not fleeing,False
+278,278,Jamie Croom,10/03/15,Gunshot,gun,31.0,M,Other,Baton Rouge,LA,,attack,Not fleeing,False
+2644,2644,Blaine Robert Erb,07/06/17,Gunshot,gun,35.0,M,White,Dundalk,MD,,attack,Not fleeing,True
+585,585,Richard LaPort,29/06/15,Gunshot,gun,51.0,M,White,Edinburg,NY,,attack,Not fleeing,False
+1364,1364,Lamar Harris,14/03/16,Gunshot,gun,29.0,M,Other,Chicago,IL,,attack,Foot,False
+531,531,Justin Fowler,20/03/15,Gunshot,gun,24.0,M,Other,Red Valley,AZ,,attack,Car,False
+2004,2004,Jordan Gonzales,30/10/16,Gunshot,gun,23.0,M,Hispanic,Corpus Christi,TX,,attack,Not fleeing,False
+1795,1795,Kenney Watkins,16/08/16,Gunshot,gun,18.0,M,Other,Los Angeles,CA,,other,Foot,False
+2755,2755,Brayant Alvarez,09/07/17,Gunshot,gun,24.0,M,Other,Chicago,IL,,attack,Foot,False
+2199,2199,William Tucker Mathis,07/01/17,Gunshot,unarmed,41.0,M,White,Elkridge,MD,,attack,Not fleeing,False
+2350,2350,Jimmy Briggs,16/02/17,Gunshot,gun,21.0,M,Other,Gardena,CA,,attack,Foot,False
+2314,2314,Henry James Hunter,08/02/17,Gunshot,knife,34.0,M,Other,Anadarko,OK,,other,,False
+2509,2509,David Airth,15/04/17,Gunshot,knife,56.0,M,White,Newport Beach,CA,,other,Not fleeing,False
+2203,2203,Gilbert Zambronio-Lovato,07/01/17,Gunshot,,38.0,M,Hispanic,Albuquerque,NM,,other,Not fleeing,False
+2626,2626,Marc Brandon Davis,02/06/17,Gunshot,undetermined,34.0,M,Other,Petal,MS,,undetermined,Not fleeing,False
+213,213,William Dean Poole,16/03/15,Gunshot,gun,52.0,M,White,Gastonia,NC,,attack,Not fleeing,False
+1482,1482,Mario Mejia Martinez,21/04/16,Gunshot,knife,48.0,M,Hispanic,Everett,MA,,other,Not fleeing,False
+1294,1294,Edgar Camacho-Alvarado,20/02/16,Gunshot,gun,23.0,M,Hispanic,Albuquerque,NM,,attack,Foot,False
+468,468,Chrislon Talbott,20/05/15,Gunshot,gun,38.0,M,Other,Owensboro,KY,,attack,Not fleeing,False
+1920,1920,Johnathan Lozano-Murillo,28/09/16,Gunshot,knife,28.0,M,Hispanic,Valdosta,GA,,attack,Not fleeing,True
+1044,1044,Darius Smith,30/11/15,Gunshot,gun,18.0,M,Other,Atlanta,GA,,attack,Foot,False
+830,830,Tyrone Bass,15/09/15,Gunshot,unknown weapon,21.0,M,Other,Chalmette,LA,,attack,Not fleeing,False
+2334,2334,Brandon S. Lambert,13/02/17,Gunshot,vehicle,32.0,M,White,Knoxville,TN,,attack,Car,False
+2784,2784,Eric Wesley Clark,17/07/17,Gunshot,gun,43.0,M,Other,Culpeper,VA,,attack,Car,False
+2578,2578,Phillip O'Shea,12/05/17,Gunshot,gun,46.0,M,White,Jupiter,FL,,attack,Car,False
+2569,2569,Scott N. Bloomfield,09/05/17,Gunshot,gun,34.0,M,White,Tiffin,OH,,attack,Not fleeing,False
+994,994,Leonel Acevedo,09/11/15,Gunshot,gun,45.0,M,Hispanic,San Jose,CA,,attack,Not fleeing,False
+2418,2418,Cordale Quinn Handy,15/03/17,Gunshot,gun,29.0,M,Other,St. Paul,MN,,other,Not fleeing,False
+2688,2688,Brandon D. Lukenbill,21/06/17,Gunshot,vehicle,33.0,M,White,Nevada,MO,,undetermined,Car,False
+415,415,Andrew Jackson,29/04/15,Gunshot,knife,26.0,M,White,Chickasha,OK,,other,Foot,False
+1165,1165,Ciara Meyer,11/01/16,Gunshot,unarmed,12.0,F,White,Penn Township,PA,,other,Not fleeing,False
+2485,2485,Benjamin Ailstock,06/04/17,Gunshot,gun,38.0,M,White,Madison Township,OH,,attack,Not fleeing,False
+1320,1320,Cedric Ford,25/02/16,Gunshot,gun,38.0,M,Other,Hesston,KS,,attack,Not fleeing,False
+1233,1233,John Henry Neuman,03/02/16,Gunshot,gun,53.0,M,White,Schulter,OK,,attack,Not fleeing,False
+2122,2122,Scott MacIntosh,09/12/16,Gunshot,machete and gun,35.0,M,White,Forks Township,PA,,other,Not fleeing,False
+456,456,Sean Michael Pelletier,14/05/15,Gunshot,gun,37.0,M,White,Portage,MI,,attack,Car,False
+1862,1862,David L. Anderson,06/09/16,Gunshot,vehicle,25.0,M,White,Omaha,NE,,other,Other,False
+1696,1696,Thomas Vandemark,06/07/16,Gunshot,gun,65.0,M,White,Rush Springs,OK,,other,Not fleeing,True
+393,393,Daniel Covarrubias,21/04/15,Gunshot,unarmed,37.0,M,Other,Lakewood,WA,,other,Foot,False
+1737,1737,Jorge Moreno-Aguirre,28/07/16,Gunshot,undetermined,41.0,M,Hispanic,Sparks,NV,,undetermined,Not fleeing,False
+1818,1818,Justin Kulhanek-Derks,28/08/16,Gunshot,gun,37.0,M,White,Eagan,MN,,attack,Not fleeing,False
+308,308,Richard White,20/03/15,Gunshot,machete,63.0,M,Other,New Orleans,LA,,attack,Not fleeing,False
+100,100,Kristiana Coignard,22/01/15,Gunshot & Taser,knife,17.0,F,White,Longview,TX,,other,Not fleeing,False
+957,957,Charles A. Pettit,05/10/15,Gunshot,gun,18.0,M,Other,Midwest City,OK,,attack,Not fleeing,False
+231,231,Phillip Conley,22/03/15,Gunshot,knife,37.0,M,White,Vallejo,CA,,other,Not fleeing,False
+2248,2248,Gary Mark Wigley,23/01/17,Gunshot,gun,52.0,M,White,Brooklet,GA,,attack,Foot,False
+1574,1574,Robert Wickizer,30/05/16,Gunshot,gun,70.0,M,White,Tualatin,OR,,attack,Not fleeing,False
+1553,1553,Travis Moore,21/05/16,Gunshot,unarmed,38.0,M,White,Oregon City,OR,,attack,Not fleeing,False
+944,944,Timothy Arnold,21/10/15,Gunshot,gun,47.0,M,White,Kentwood,MI,,attack,Not fleeing,False
+2676,2676,Sergio Valdovinos,16/06/17,Gunshot,machete,32.0,M,Hispanic,Madera,CA,,other,Not fleeing,False
+1451,1451,William Clark,10/04/16,Gunshot,knife,30.0,M,White,Rotterdam,NY,,attack,Not fleeing,False
+134,134,Joseph Paffen,08/02/15,Gunshot,gun,46.0,M,White,Orange County,FL,,attack,Not fleeing,False
+1942,1942,Ricardo Hernandez,08/10/16,Gunshot,knife,21.0,M,Hispanic,Federal Way,WA,,other,Not fleeing,False
+2213,2213,Charles Christopher McClure,16/01/17,Gunshot,pole and knife,43.0,M,White,Fulton,KY,,other,Not fleeing,False
+1699,1699,Earnest Fells,07/07/16,Gunshot,gun,63.0,M,Other,Selma,AL,,attack,Not fleeing,True
+1662,1662,Josh Herrera,23/06/16,Gunshot,gun,29.0,M,Other,Hanover,NM,,undetermined,Not fleeing,False
+1088,1088,Jeffrey Gene Evans,14/12/15,Gunshot & Taser,knife,52.0,M,White,Middle River,MD,,other,Not fleeing,False
+903,903,Richard Love,10/10/15,Gunshot,gun,31.0,M,White,Old Saybrook,CT,,attack,Not fleeing,False
+1047,1047,John Anthony Gonzalez,01/12/15,Gunshot,gun,18.0,M,Hispanic,Norwalk,CA,,attack,Not fleeing,False
+421,421,Alexia Christian,29/04/15,Gunshot,gun,25.0,F,Other,Atlanta,GA,,attack,Not fleeing,False
+2161,2161,Joseph Garcia,25/12/16,Gunshot,gun,33.0,M,Other,Desha,AR,,attack,Not fleeing,False
+2091,2091,"Bruce Randall ""Zeus"" Johnson",01/12/16,Gunshot,gun,38.0,M,Other,Tacoma,WA,,attack,Not fleeing,False
+2121,2121,Jose Angel Vallarta,11/12/16,Gunshot,knife,30.0,M,Hispanic,Laredo,TX,,attack,Not fleeing,False
+1183,1183,Brandon Bearden,13/01/16,Gunshot,gun,29.0,M,White,Sevierville,TN,,other,Foot,True
+1380,1380,Boyd Keith Ballard,20/03/16,Gunshot,knife,61.0,M,White,Hopewell,VA,,other,Not fleeing,True
+2255,2255,Antonio Arturo Perez Garcia,24/01/17,Gunshot,gun,27.0,M,Hispanic,Bakersfield,CA,,attack,Other,False
+2045,2045,Richard T. Herrera,12/11/16,Gunshot,gun,29.0,M,Hispanic,Tucson,AZ,,attack,Car,False
+1693,1693,Sam Newby,05/07/16,Gunshot,undetermined,49.0,M,White,Temecula,CA,,other,Car,False
+2748,2748,TK TK,05/07/17,Gunshot,undetermined,24.0,M,Hispanic,Vista,CA,,undetermined,Foot,False
+538,538,QuanDavier Hicks,09/06/15,Gunshot,gun,22.0,M,Other,Cincinnati,OH,,attack,Not fleeing,False
+745,745,Matthew Castillo,16/08/15,Gunshot,gun,29.0,M,Hispanic,San Jose,CA,,other,Not fleeing,False
+1591,1591,"Hubert Thomas Burns, Jr.",03/06/16,Gunshot,knife,34.0,M,Other,Parker,AZ,,other,Not fleeing,False
+1123,1123,Bettie Jones,26/12/15,Gunshot,unarmed,55.0,F,Other,Chicago,IL,,other,,False
+2159,2159,Gerald Hall,25/12/16,Gunshot,knife,29.0,M,Other,Washington,DC,,other,Not fleeing,True
+2793,2793,Isaiah Perkins,20/07/17,Gunshot,gun,27.0,M,Other,St. Louis,MO,,attack,Car,False
+1665,1665,Michael Disbrowe,27/06/16,Gunshot,toy weapon,28.0,M,White,Boone,IA,,attack,Not fleeing,False
+2707,2707,Bradley Joseph Szacaks,28/01/17,Gunshot,gun,45.0,M,White,Apache Junction,AZ,,attack,Not fleeing,False
+1583,1583,Angel Daniel Navarro,26/05/16,Gunshot,gun,25.0,M,Hispanic,Socorro,NM,,attack,Car,False
+318,318,Desmond Willis,06/04/15,Gunshot,gun,25.0,M,Other,Harvey,LA,,attack,Foot,False
+230,230,Brandon Rapp,19/03/15,Gunshot,gun,31.0,M,White,Middleton,ID,,attack,Not fleeing,True
+2728,2728,TK TK,02/07/17,Gunshot,gun,,M,Other,Norfolk,VA,,attack,Not fleeing,False
+560,560,Trepierre Hummons,19/06/15,Gunshot,gun,21.0,M,Other,Cincinnati,OH,,attack,Not fleeing,False
+781,781,Bertrand Davis,27/08/15,Gunshot & Taser,box cutter,42.0,M,Other,Dallas,TX,,attack,Not fleeing,False
+1176,1176,Adam Karjalainen,16/01/16,Gunshot,toy weapon,44.0,M,White,Beaverton,OR,,other,Not fleeing,False
+1973,1973,Keegan Schweikle,17/10/16,Gunshot,gun,17.0,M,White,Benton,AR,,attack,Foot,False
+860,860,Ernesto Medina Lopez,24/09/15,Gunshot,knife,42.0,M,Hispanic,Miami,FL,,attack,Not fleeing,False
+2458,2458,Matthew Gambaro,24/03/17,Gunshot,gun,26.0,M,Hispanic,Cisco,TX,,other,Foot,False
+1345,1345,"John Charles ""JC"" Graham",07/03/16,Gunshot,gun,42.0,M,White,Billings,MT,,attack,Not fleeing,False
+1923,1923,Joshua Allen Perry,01/10/16,Gunshot,gun,28.0,M,White,Hometown,WV,,attack,Foot,False
+1486,1486,Mitchell Oakley,23/04/16,Gunshot,gun,24.0,M,White,Chandler,AZ,,attack,Not fleeing,False
+580,580,Joshua Crittenden,27/06/15,Gunshot,gun,35.0,M,White,Tahlequah,OK,,attack,Not fleeing,True
+954,954,Kevin Brunson,26/10/15,Gunshot,vehicle,45.0,M,Other,Frederick,MD,,other,Not fleeing,False
+2330,2330,James Stephen McMullen,10/02/17,Gunshot,gun,45.0,M,White,Bethany,OK,,attack,Not fleeing,False
+1441,1441,Laronda Sweatt,06/04/16,Gunshot,ax,40.0,F,Other,Gallatin,TN,,attack,Not fleeing,True
+1918,1918,Alfred Olango,27/09/16,Gunshot,unarmed,38.0,M,Other,El Cajon,CA,,attack,Not fleeing,True
+1580,1580,Terry Edwards,27/05/16,Gunshot,gun,59.0,M,White,Indianapolis,IN,,attack,Not fleeing,False
+2220,2220,Dexter Martin Dumarce,15/01/17,Gunshot & Taser,knife,33.0,M,White,Spokane,WA,,other,Foot,True
+1257,1257,John Birkeland,10/02/16,Gunshot,knife,52.0,M,White,Roseville,MN,,attack,Not fleeing,True
+922,922,Herbert Benitez,15/10/15,Gunshot,gun,27.0,M,Hispanic,San Francisco,CA,,attack,Not fleeing,False
+1587,1587,Daniel Pigg,01/06/16,Gunshot,gun,51.0,M,White,Berea,KY,,attack,Foot,False
+597,597,Cesar A. Limon Juarez,03/07/15,Gunshot & Taser,knife,27.0,M,Hispanic,West Covina,CA,,attack,Not fleeing,False
+2478,2478,Jose Antonio Hernandez,03/04/17,Gunshot & Taser,vehicle,46.0,M,Hispanic,Pendleton,SC,,other,Not fleeing,True
+254,254,Angelo West,27/03/15,Gunshot,gun,41.0,M,Other,Boston,MA,,attack,Not fleeing,False
+154,154,Daniel Mejia,13/02/15,Gunshot,knife,37.0,M,Hispanic,San Manuel,AZ,,other,Not fleeing,False
+949,949,John Harley Turner,25/10/15,Gunshot,gun,36.0,M,White,Talking Rock,GA,,attack,Not fleeing,False
+1677,1677,Tristan Vilters,30/06/16,Gunshot,gun,24.0,M,White,Park County,CO,,attack,Not fleeing,False
+899,899,Joe Pasquez Ortiz,11/10/15,Gunshot,undetermined,34.0,M,Hispanic,San Bernardino,CA,,undetermined,Other,False
+296,296,Justus Howell,04/04/15,Gunshot,gun,17.0,M,Other,Zion,IL,,attack,Foot,False
+1372,1372,Sunny Chin,17/03/16,Gunshot,gun,53.0,M,Black,Tampa,FL,,attack,Not fleeing,False
+2412,2412,Michael Anthony Perez,12/03/17,Gunshot & Taser,knife,33.0,M,Hispanic,Orange,CA,,other,Not fleeing,False
+2154,2154,TK TK,21/12/16,Gunshot,knife,,M,Other,Stockton,CA,,undetermined,Not fleeing,False
+751,751,Mansur Ball-Bey,19/08/15,Gunshot,gun,18.0,M,Other,St. Louis,MO,,attack,Foot,False
+2611,2611,Francis de la Cruz,28/05/17,Gunshot & Taser,ax,35.0,M,Other,San Jose,CA,,other,Not fleeing,False
+1950,1950,Maurico Barron,10/10/16,Gunshot,undetermined,27.0,M,Hispanic,Irvine,CA,,other,Not fleeing,False
+1842,1842,Reginald Darnell Dogan,02/05/16,Gunshot,gun,52.0,M,Other,Greenville,SC,,attack,Not fleeing,False
+1184,1184,Timothy Caruthers,18/01/16,Gunshot,knife,27.0,M,White,Medford,OR,,other,Foot,False
+491,491,Feras Morad,27/05/15,Gunshot & Taser,unarmed,20.0,M,Other,Long Beach,CA,,other,Not fleeing,False
+811,811,William Verrett,06/09/15,Gunshot,gun,45.0,M,White,Hobbs,NM,,attack,Not fleeing,False
+2806,2806,TK TK,26/07/17,Gunshot,gun,,M,Other,San Antonio,TX,,attack,Not fleeing,False
+2780,2780,TK TK,15/07/17,Gunshot,gun,23.0,M,Other,Moreno Valley,CA,,other,Not fleeing,False
+2245,2245,Melvin DeLong,18/01/17,Gunshot,gun,28.0,M,Other,Grand Forks,ND,,attack,Not fleeing,False
+2461,2461,Pryor Spencer Bailey,27/03/17,Gunshot,gun,45.0,M,White,Columbus,MS,,attack,Car,False
+1936,1936,Zachary Sutton,04/10/16,Gunshot,gun,26.0,M,White,Springdale,AR,,attack,Not fleeing,False
+1803,1803,Pedro Montanez,20/08/16,Gunshot,knife,71.0,M,Hispanic,Indio,CA,,other,Not fleeing,True
+715,715,Andre Green,09/08/15,Gunshot,vehicle,15.0,M,Other,Indianapolis,IN,,attack,Not fleeing,False
+2419,2419,Christopher Apostolos,14/03/17,Gunshot,unarmed,56.0,M,White,Toms River,NJ,,attack,,False
+2299,2299,Daniel Loren Rucker,03/02/17,Gunshot,gun,45.0,M,White,Irving,TX,,other,Not fleeing,False
+2546,2546,Andrew James Lucero,29/04/17,Gunshot,vehicle,33.0,M,Other,Eldorado,NM,,attack,Not fleeing,False
+692,692,Rafael Molina,31/07/15,Gunshot,gun,33.0,M,Hispanic,Albuquerque,NM,,attack,Not fleeing,True
+1951,1951,Kheyanev Littledog,10/10/16,Gunshot,gun,19.0,M,Other,Midland,TX,,other,,False
+727,727,Edrian Rivera,09/08/15,Gunshot,meat cleaver,22.0,M,Hispanic,San Jose,CA,,attack,Foot,False
+1613,1613,Bobby Sanchez,10/06/16,Gunshot,gun,32.0,M,Hispanic,Pueblo,CO,,attack,Foot,False
+138,138,Antonio Zambrano-Montes,10/02/15,Gunshot & Taser,unarmed,35.0,M,Hispanic,Pasco,WA,,other,Foot,False
+2388,2388,Joey Isgrigg,24/02/17,Gunshot,gun,30.0,M,White,London,KY,,attack,Not fleeing,False
+319,319,Erick Rose,07/04/15,Gunshot,gun,32.0,M,White,Pottawatomie County,OK,,attack,Car,False
+2641,2641,David W. Hamilton,06/06/17,Gunshot,gun,50.0,M,Other,Vancouver,WA,,attack,Car,False
+605,605,Johnny Ray Anderson,05/07/15,Gunshot,unarmed,43.0,M,White,Hawaiian Gardens,CA,,other,Not fleeing,False
+2235,2235,Angel Ramos,23/01/17,Gunshot,knife,21.0,M,Hispanic,Vallejo,CA,,attack,Not fleeing,True
+277,277,James Greenwell,11/03/15,Gunshot,gun,31.0,M,White,Memphis,TN,,attack,Not fleeing,False
+1959,1959,Blaine J. Beason,12/10/16,Gunshot,gun,31.0,M,White,Livingston Parish,LA,,attack,Not fleeing,False
+1614,1614,J. Juan Briseno-Ortega,10/06/16,Gunshot,gun,50.0,M,Hispanic,Yakima,WA,,attack,Not fleeing,True
+953,953,Jon Ployhar,24/10/15,Gunshot,undetermined,49.0,M,White,Kenai Peninsula,AK,,attack,Not fleeing,False
+839,839,Lawrence Price,17/09/15,Gunshot,gun,,M,White,Brodhead,KY,,attack,Not fleeing,False
+2805,2805,Aries Clark,25/07/17,Gunshot,undetermined,16.0,M,Other,Marion,AR,,undetermined,Not fleeing,False
+732,732,Redel Jones,12/08/15,Gunshot & Taser,knife,30.0,F,Other,Los Angeles,CA,,other,Not fleeing,False
+379,379,Grover Sapp,18/04/15,Gunshot,gun,45.0,M,White,Panama City,FL,,attack,Not fleeing,False
+181,181,David Cuevas,26/02/15,Gunshot,gun,42.0,M,Hispanic,Lakeland,FL,,attack,Foot,False
+2727,2727,Patrick Sanchez,01/07/17,Gunshot,gun,23.0,M,Hispanic,Glendale,AZ,,other,Not fleeing,True
+1212,1212,Israel Vladimir Rodriguez,27/01/16,Gunshot,gun,26.0,M,Hispanic,Cobb County,GA,,attack,Car,False
+2631,2631,Roman Jade Carrillo,30/05/17,Gunshot,gun,18.0,M,Hispanic,Salt Lake City,UT,,attack,Car,False
+553,553,Shelly Haendiges,12/06/15,Gunshot,toy weapon,17.0,F,White,Kokomo,IN,,attack,Not fleeing,False
+1876,1876,Travis Ell,09/09/16,Gunshot,unknown weapon,64.0,M,White,Auburn,WA,,other,Not fleeing,False
+2047,2047,Michael Cookson,15/11/16,Gunshot,knife,48.0,M,Other,Temecula,CA,,other,Not fleeing,False
+2191,2191,Ruben Randolph,04/01/17,Gunshot,gun,51.0,M,Other,Pomona,CA,,attack,Foot,False
+2543,2543,Caleb Jackson,29/04/17,Gunshot,gun,35.0,M,Other,Newport News,VA,,attack,Not fleeing,False
+892,892,Matthew Dobbins,02/10/15,Gunshot,unarmed,29.0,M,White,Amarillo,TX,,undetermined,Not fleeing,False
+650,650,David  Wheat Jr.,18/07/15,Gunshot,knife,22.0,M,White,Fort Collins,CO,,attack,Not fleeing,False
+2149,2149,Tommy Seneca,11/08/16,Gunshot,gun,54.0,M,White,Plaquemine,LA,,attack,Not fleeing,False
+286,286,Darrin Langford,02/04/15,Gunshot,gun,32.0,M,Other,Rock Island,IL,,attack,Foot,False
+1147,1147,Carlton Antonio Murphy,05/01/16,Gunshot,gun,33.0,M,Other,Charlotte,NC,,attack,Not fleeing,False
+1507,1507,Bender Dass,30/04/16,Gunshot,vehicle,55.0,M,White,Florence,AZ,,attack,Car,False
+1723,1723,Derek Love,21/07/16,Gunshot,gun,50.0,M,Other,Chicago,IL,,attack,Not fleeing,False
+1202,1202,Michael Clyde Lynch,20/01/16,Gunshot,knife,37.0,M,White,Kerrville,TX,,other,Other,False
+1577,1577,Donald Edward Brown III,29/05/16,Gunshot,knife,32.0,M,White,Deland,FL,,other,Not fleeing,False
+1927,1927,George Richards-Meyers,30/09/16,Gunshot,undetermined,18.0,M,Other,Newark,NJ,,undetermined,Not fleeing,False
+52,52,Talbot Schroeder,14/01/15,Gunshot,knife,75.0,M,White,Old Bridge,NJ,,attack,Not fleeing,False
+2265,2265,Josue Javier Diaz,26/01/17,Gunshot,gun,28.0,M,Hispanic,Charlotte,NC,,other,Car,False
+1305,1305,Patricia Kruger,21/02/16,Gunshot,gun,38.0,F,Other,Houston,AK,,attack,Not fleeing,False
+2462,2462,Richard Alexander Tilley,27/03/17,Gunshot,knife,28.0,M,White,Montgomery Village,MD,,other,Not fleeing,True
+1273,1273,David Glen Watson,12/02/16,Gunshot,gun,53.0,M,White,Fort Worth,TX,,other,Not fleeing,False
+2371,2371,Kyle Copson,22/02/17,Gunshot,knife,26.0,M,White,Princeton,WV,,other,Not fleeing,False
+2547,2547,Luis Fernando Pacheco,28/04/17,Gunshot,gun,25.0,M,Hispanic,San Mateo,CA,,attack,Not fleeing,False
+2372,2372,Morgan London Rankins,22/02/17,Gunshot,knife,30.0,F,Other,Austin,TX,,other,Car,False
+631,631,Salvado Ellswood,12/07/15,Gunshot & Taser,unarmed,36.0,M,Other,Plantation,FL,,attack,Not fleeing,False
+1255,1255,Vincent Nageak,10/02/16,Gunshot,gun,36.0,M,Other,Barrow,AK,,attack,Not fleeing,False
+2018,2018,Joel B. Keenan,06/11/16,Gunshot,gun,43.0,M,White,Aiken,SC,,attack,Not fleeing,False
+1020,1020,Randy Allen Smith,19/11/15,Gunshot,gun,34.0,M,Other,Manatee,FL,,attack,,False
+707,707,Vincente Montano,05/08/15,Gunshot,hatchet,29.0,M,White,Antioch,TN,,attack,Not fleeing,False
+1939,1939,Lucas M. Felkel,05/10/16,Gunshot,gun,35.0,M,White,Moncks Corner,SC,,attack,Car,False
+428,428,Nadir Soofi,03/05/15,Gunshot,gun,34.0,M,Other,Garland,TX,,attack,Not fleeing,False
+1417,1417,Robert D. Guerin,27/03/16,Gunshot,gun,33.0,M,White,Roswell,NM,,attack,Not fleeing,True
+486,486,Nikki Jo Burtsfield,20/05/15,Gunshot & Taser,knife,39.0,F,White,Gillette,WY,,other,Car,False
+1802,1802,Kelley Brandon Forte,22/08/16,Gunshot,knife,34.0,M,Other,Hamilton,OH,,attack,Not fleeing,False
+1056,1056,Ivan Krstic,04/12/15,Gunshot & Taser,metal stick,47.0,M,White,Mesa,AZ,,other,Not fleeing,False
+1953,1953,Thomas Jeffery Burns,07/10/16,Gunshot,toy weapon,49.0,M,White,Benton,AR,,other,Not fleeing,False
+1554,1554,Michael Eugene Wilson Jr.,22/05/16,Gunshot,unarmed,27.0,M,Other,Hallandale Beach,FL,,other,Car,True
+450,450,Alec Ouzounian,12/05/15,Gunshot,undetermined,40.0,M,White,Rancho Santa Margarita,CA,,other,Not fleeing,False
+522,522,Damien Ramirez,06/06/15,Gunshot,gun,27.0,M,Hispanic,Strasburg,CO,,attack,Car,False
+228,228,Shane Watkins,19/03/15,Gunshot,box cutter,39.0,M,White,Lawrence County,AL,,other,Not fleeing,True
+647,647,Edward Foster III,16/07/15,Gunshot,gun,35.0,M,Other,Homestead,FL,,attack,Not fleeing,False
+2488,2488,Kenneth Francis,06/04/17,Gunshot,gun,37.0,M,Other,Newark,NJ,,attack,Not fleeing,False
+1010,1010,Yohans Leon,17/11/15,Gunshot,gun,28.0,M,Other,Miami,FL,,attack,Foot,False
+1568,1568,"Eugene ""Geno"" Francis Smith",26/05/16,Gunshot,gun,29.0,M,White,St. Paul,MN,,attack,Not fleeing,False
+600,600,Bryan David Bauer,04/07/15,Gunshot,gun,36.0,M,White,Henderson,NV,,attack,Not fleeing,False
+1937,1937,Brandon Simmons,05/10/16,Gunshot,machete,28.0,M,White,Boulder,CO,,other,Not fleeing,False
+1525,1525,Alton Fitzgerald Witchard,07/05/16,Gunshot,gun,37.0,M,Other,St. Petersburg,FL,,attack,Other,False
+1246,1246,Blake Edward Fitzgerald,05/02/16,Gunshot,gun,30.0,M,White,Milton,FL,,other,Car,False
+2243,2243,Marquis Thomas,18/01/17,Gunshot,gun,19.0,M,Other,Gary,IN,,attack,Car,False
+2764,2764,Gregory Shawn Thrower,10/07/17,Gunshot,gun,39.0,M,Other,North Branch,MN,,attack,Car,False
+2218,2218,Cameron Johnson,13/01/17,Gunshot,vehicle,29.0,M,Other,Kahuku,HI,,other,Car,False
+1657,1657,Randy Blecher,24/06/16,Gunshot,gun,50.0,M,White,Farmington,AR,,attack,Not fleeing,False
+216,216,Andrew Charles Shipley,17/03/15,Gunshot,gun,49.0,M,White,Medford,OR,,attack,Not fleeing,False
+246,246,Deanne Choate,26/03/15,Gunshot,gun,53.0,F,White,Gardner,KS,,attack,Not fleeing,False
+1351,1351,Arteair Porter Jr.,10/03/16,Gunshot,toy weapon,22.0,M,Other,Reno,NV,,attack,Foot,False
+2078,2078,Jerome Chris Harmon,25/11/16,Gunshot,gun,23.0,M,Other,Hattiesburg,MS,,attack,Other,False
+2189,2189,James Owens,03/01/17,Gunshot & Taser,knife,63.0,M,Other,Brooklyn,NY,,other,Not fleeing,False
+1019,1019,Marcus Meridy,18/11/15,Gunshot,gun,44.0,M,Other,Berrien County,MI,,attack,Not fleeing,False
+1748,1748,John Casey,31/07/16,Gunshot,rock,32.0,M,White,Phelps,KY,,attack,Foot,False
+1096,1096,Ronnie Dubose Carter,15/12/15,Gunshot,vehicle,51.0,M,Other,Dallas,NC,,attack,Car,False
+406,406,Albert Hanson,26/04/15,Gunshot,gun,76.0,M,White,Kings County,CA,,attack,Not fleeing,False
+549,549,James Boulware,13/06/15,Gunshot,guns and explosives,35.0,M,White,Hutchins,TX,,attack,Not fleeing,False
+2580,2580,Clarence E. Coats,13/05/17,Gunshot,gun,41.0,M,Other,Columbia,MO,,attack,,False
+1213,1213,Jacqueline D. Salyers,28/01/16,Gunshot,vehicle,32.0,F,Other,Tacoma,WA,,other,Not fleeing,False
+346,346,Matautu Nuu,28/01/15,Gunshot & Taser,hammer,35.0,M,Black,Stockton,CA,,attack,Not fleeing,False
+2158,2158,Daquan Antonio Westbrook,24/12/16,Gunshot,gun,18.0,M,Other,Charlotte,NC,,undetermined,Not fleeing,False
+2293,2293,Thomas Scott Henry,04/02/17,Gunshot,gun,56.0,M,White,DeLand,FL,,attack,Not fleeing,False
+175,175,Anthony Giaquinta,23/02/15,Gunshot,gun,41.0,M,White,Clarkesville,GA,,attack,Foot,False
+1775,1775,Ronald Smith,09/08/16,Gunshot,gun,45.0,M,White,Circleville,OH,,other,Not fleeing,False
+1015,1015,Jeray Chatham,17/11/15,Gunshot,vehicle,30.0,M,Other,Weatherford,TX,,other,Car,False
+2067,2067,Frank Nathaniel Clark,22/11/16,Gunshot,undetermined,34.0,M,Other,Durham,NC,,undetermined,Not fleeing,False
+861,861,Kenneth Ray Pinter,23/09/15,Gunshot,gun,45.0,M,White,Grayson County,VA,,attack,Not fleeing,False
+802,802,Richard Keith Kelley,04/09/15,Gunshot,gun,27.0,M,White,Weitchpec,CA,,attack,Car,False
+256,256,Gary Kendrick,27/03/15,Gunshot,gun,56.0,M,White,Encinitas,CA,,attack,Not fleeing,False
+2567,2567,Mikel Laney McIntyre,08/05/17,Gunshot,rock,32.0,M,Other,Rancho Cordova,CA,,attack,Foot,False
+2285,2285,Yia Lee,03/02/17,Gunshot,gun,41.0,M,Black,Panhandle,TX,,attack,Not fleeing,False
+1009,1009,Shane Whitehead,15/11/15,Gunshot,unknown weapon,16.0,M,Other,Germantown,PA,,attack,Not fleeing,False
+877,877,Patrick Stephen Lundstrom,29/09/15,Gunshot,blunt object,46.0,M,Other,Rapid City,SD,,attack,Not fleeing,False
+1276,1276,Sahlah Ridgeway,12/02/16,Gunshot,gun,32.0,F,Other,Syracuse,NY,,other,Not fleeing,False
+1825,1825,Justin Baker,30/08/16,Gunshot & Taser,chain saw,36.0,M,Other,Graham,WA,,attack,Not fleeing,False
+946,946,Stephen H. Brock,22/10/15,Gunshot,undetermined,53.0,M,White,Pine Top,KY,,other,Not fleeing,False
+800,800,Curtis James Meyer,04/09/15,Gunshot,gun,37.0,M,White,Mitchell,SD,,attack,Not fleeing,False
+582,582,Alfontish Cockerham,20/06/15,Gunshot,gun,23.0,M,Other,Chicago,IL,,attack,Foot,False
+1720,1720,Patrick Fennell,16/07/16,Gunshot,gun,57.0,M,White,Little Egg Harbor Township,NJ,,other,Foot,False
+2566,2566,John Bittle,09/05/17,Gunshot,unarmed,39.0,M,White,Lexington,SC,,other,Foot,False
+364,364,Christopher Grant Finley,14/04/15,Gunshot,machete,31.0,M,White,Jonesboro,AR,,attack,Not fleeing,False
+813,813,Casimero Carlos Casillas,07/09/15,Gunshot,metal pipe,45.0,M,Hispanic,Fresno,CA,,other,Foot,True
+1564,1564,Leslie Goletz,24/05/16,Gunshot,Taser,57.0,M,Other,Harrisonville,MO,,other,Car,False
+567,567,Spencer McCain,25/06/15,Gunshot,unarmed,41.0,M,Other,Owings Mills,MD,,other,Not fleeing,False
+2527,2527,Kendell Wilson,24/04/17,Gunshot,gun,16.0,M,Other,Houston,TX,,other,Foot,True
+2655,2655,Robin Blaylock,10/06/17,Gunshot,gun,53.0,M,White,North English,IA,,other,Not fleeing,False
+416,416,Joshua Deysie,29/04/15,Gunshot,gun,33.0,M,Hispanic,Mesa,AZ,,attack,Not fleeing,False
+607,607,David Oliva Sarabia,06/07/15,Gunshot & Taser,knife,42.0,M,Hispanic,Atwater,CA,,attack,Car,False
+668,668,Dontae L. Martin,23/07/15,Gunshot,gun,34.0,M,Other,Dayton,OH,,attack,Not fleeing,False
+593,593,Michael Holt,05/07/15,Gunshot,gun,35.0,M,White,Austin,TX,,attack,Foot,False
+2073,2073,Kajuan Raye,23/11/16,Gunshot,undetermined,19.0,M,Other,Chicago,IL,,undetermined,Foot,False
+1443,1443,Luis Gongora,07/04/16,Gunshot,knife,45.0,M,Hispanic,San Francisco,CA,,other,Not fleeing,False
+1172,1172,Alfred Longoria,16/01/16,Gunshot,toy weapon,34.0,M,Hispanic,Hollywood Hills,CA,,other,Foot,False
+520,520,Jesus Quezada Gomez,05/06/15,Gunshot,gun,50.0,M,Hispanic,Santa Maria,CA,,attack,Not fleeing,False
+2561,2561,Lucille Espinosa,04/05/17,Gunshot,gun,54.0,F,Other,Katy,TX,,other,Not fleeing,False
+2074,2074,Don Fitzgerald White,24/11/16,Gunshot,knife,45.0,M,Other,Jackson,TN,,attack,Not fleeing,False
+2724,2724,Jose Guillermo Flores Colon,29/06/17,Gunshot,Taser,37.0,M,Other,Deltona,FL,,other,Not fleeing,False
+2015,2015,Abraham Ortiz,04/11/16,Gunshot,undetermined,26.0,M,Hispanic,Palm Springs,CA,,undetermined,Not fleeing,False
+2443,2443,Trevor Allen Brice Gingras,19/03/17,Gunshot,gun,19.0,M,White,Cape Canaveral,FL,,attack,Foot,False
+1575,1575,Osee Calix,30/05/16,Gunshot,gun,33.0,M,Other,Tucson,AZ,,attack,Not fleeing,False
+1236,1236,Kayden Clarke,04/02/16,Gunshot,knife,24.0,M,White,Mesa,AZ,,other,Not fleeing,True
+1860,1860,Donny Max Daugherty,03/09/16,Gunshot,gun,36.0,M,White,Metropolis,IL,,undetermined,Other,False
+1830,1830,Gregory Mathis,30/08/16,Gunshot & Taser,knife,36.0,M,White,Weatherford,TX,,other,Not fleeing,False
+189,189,Jessica Uribe,28/02/15,Gunshot,knife,28.0,F,Hispanic,Tucson,AZ,,other,Not fleeing,False
+2817,2817,Isaiah Tucker,31/07/17,Gunshot,vehicle,28.0,M,Other,Oshkosh,WI,,attack,Car,True
+2294,2294,Jamake Cason Thomas,03/02/17,Gunshot,gun,22.0,M,Other,Rowland,NC,,attack,Car,False
+697,697,Antonio Clements,03/08/15,Gunshot,gun,49.0,M,Other,Oakland,CA,,attack,Not fleeing,False
+1244,1244,Michael Laniado,07/02/16,Gunshot,knife,27.0,M,Other,Manchester,NJ,,other,Not fleeing,False
+657,657,Darrius Stewart,17/07/15,Gunshot,unarmed,19.0,M,Other,Memphis,TN,,attack,Foot,False
+1989,1989,Aaron Marquis Ballard,24/10/16,Gunshot,gun,19.0,M,Other,North St. Louis,MO,,attack,Car,False
+1203,1203,"Robert ""LaVoy"" Finicum",26/01/16,Gunshot,gun,55.0,M,White,Burns,OR,,other,Not fleeing,False
+782,782,Yonas Alehegne,27/08/15,Gunshot,chain,30.0,M,Other,Oakland,CA,,attack,Not fleeing,True
+749,749,Richard Jacquez,17/08/15,Gunshot,unarmed,40.0,M,Hispanic,San Jose,CA,,other,Foot,False
+202,202,Tyson Hubbard,05/03/15,Gunshot,gun,34.0,M,White,Lincoln,NE,,attack,Not fleeing,False
+508,508,Kamal Dajani,02/06/15,Gunshot,knife,26.0,M,White,Azle,TX,,attack,Not fleeing,False
+628,628,Paul Castaway,12/07/15,Gunshot,knife,35.0,M,Other,Denver,CO,,other,Foot,False
+1792,1792,Marcos Antonio Gastelum,16/08/16,Gunshot,unarmed,25.0,M,Hispanic,Tucson,AZ,,attack,Not fleeing,False
+1609,1609,Daniel Bennett Edwards,12/06/16,Gunshot,knife,23.0,M,White,Eagle Mountain,UT,,other,Not fleeing,False
+2271,2271,Val Thomas,29/01/17,Gunshot,Taser,53.0,M,Other,Oakdale,CT,,attack,Not fleeing,False
+2144,2144,David Coborubio,25/08/16,Gunshot,undetermined,32.0,M,Hispanic,Compton,CA,,undetermined,Not fleeing,False
+822,822,Derick Davis,12/09/15,Gunshot,undetermined,23.0,M,White,Sylacauga,AL,,undetermined,Other,False
+689,689,Ryan Daniel Vrenon,30/07/15,Gunshot,gun,25.0,M,White,Dunsmuir,CA,,attack,Car,False
+1919,1919,Christopher Sowell,28/09/16,Gunshot,undetermined,32.0,M,Other,Philadelphia,PA,,attack,Not fleeing,False
+98,98,Andrew Toto,21/01/15,Gunshot,gun,54.0,M,White,Derry,NH,,attack,Not fleeing,False
+111,111,Tiffany Terry,27/01/15,Gunshot,knife,39.0,F,White,Omaha,NE,,attack,Not fleeing,False
+1141,1141,Michael Tindall,17/11/15,Gunshot,gun,41.0,M,White,Weatherford,TX,,undetermined,Car,False
+1804,1804,Juan Gabriel Torres,21/08/16,Gunshot,knife,36.0,M,Hispanic,Las Cruces,NM,,other,Not fleeing,True
+2186,2186,Dustin Selby,30/12/16,Gunshot & Taser,knife,31.0,M,Other,Phoenix,AZ,,other,Foot,False
+90,90,Isaac Holmes,21/01/15,Gunshot,gun,19.0,M,Other,St. Louis,MO,,attack,Not fleeing,False
+2476,2476,Phosowath Sengphong,01/04/17,Gunshot,knife,30.0,M,Black,New Iberia,LA,,other,,False
+2662,2662,Barry Jones,13/06/17,Gunshot,gun,36.0,M,White,Hampton,NH,,other,Not fleeing,False
+988,988,James Francis Smyth,06/11/15,Gunshot,vehicle,55.0,M,White,Las Vegas,NV,,other,Car,False
+2818,2818,Dennis W. Robinson,29/07/17,Gunshot,gun,48.0,M,Other,Melba,ID,,attack,Car,False
+584,584,Alejandro Salazar,20/02/15,Gunshot,gun,,M,Hispanic,Houston,TX,,attack,Car,False
+2646,2646,Michele Rice,08/06/17,Gunshot,gun,,F,White,Long Beach,CA,,attack,Not fleeing,False
+2491,2491,William Baker,09/04/17,Gunshot,gun,36.0,M,Other,Ontario,CA,,other,Not fleeing,False
+1301,1301,Gerardino Cayetano Gonzalez,22/02/16,Gunshot,gun,33.0,M,Hispanic,Denver,CO,,attack,Other,False
+1150,1150,Charles Hollstein,06/01/16,Gunshot,toy weapon,38.0,M,White,Zion,IL,,other,Foot,False
+929,929,Gino Paredes,17/10/15,Gunshot,toy weapon,22.0,M,Hispanic,Modesto,CA,,attack,Not fleeing,False
+48,48,Richard McClendon,13/01/15,Gunshot,knife,43.0,M,White,Jourdanton,TX,,other,Not fleeing,False
+2687,2687,Robb Stewart,20/06/17,Gunshot,gun,50.0,M,White,Lehigh,KS,,other,Not fleeing,False
+1743,1743,Jesus Rael,28/07/16,Gunshot,gun,31.0,M,Hispanic,Tucson,AZ,,attack,Other,False
+1736,1736,Dalvin Hollins,27/07/16,Gunshot,unarmed,19.0,M,Other,Tempe,AZ,,attack,Foot,False
+1852,1852,Jose Romero,04/09/16,Gunshot,knife,,M,Hispanic,Long Beach,CA,,other,Not fleeing,False
+1817,1817,Matthew Gibbon,26/08/16,Gunshot,gun,41.0,M,White,Las Vegas,NV,,attack,Foot,False
+1398,1398,Ethan James Rincon,22/03/16,Gunshot,pick-axe,25.0,M,Hispanic,Miami,FL,,other,Not fleeing,False
+728,728,Casey George Alarcon,11/08/15,Gunshot,gun,34.0,M,White,Sandpoint,ID,,attack,Not fleeing,False
+1405,1405,Dominique Silva,24/03/16,Gunshot,toy weapon,24.0,M,Other,Pawtucket,RI,,attack,Foot,False
+2723,2723,Joel Gatu Muturi,29/06/17,Gunshot,vehicle,23.0,M,Other,Marietta,GA,,other,Not fleeing,False
+1352,1352,Martin Hurtado,10/03/16,Gunshot,gun,21.0,M,Hispanic,Long Beach,CA,,other,Foot,False
+461,461,Timothy Jones,17/05/15,Gunshot,sword,27.0,M,White,Ruidoso,NM,,other,Not fleeing,False
+1808,1808,Kyle Zimbelman,19/08/16,Gunshot,undetermined,29.0,M,White,Reno,NV,,undetermined,Car,False
+1464,1464,Kisha Arrone,17/04/16,Gunshot,gun,35.0,F,Other,Dayton,OH,,other,Car,False
+1367,1367,Cristian Rene Medina,16/03/16,Gunshot,unarmed,23.0,M,Hispanic,Florence,CA,,other,Not fleeing,False
+2129,2129,Steven Garrett Ward,07/12/16,Gunshot,knife,20.0,M,Other,Avella,PA,,attack,Not fleeing,False
+956,956,Kobvey Igbuhay,26/10/15,Gunshot,unarmed,18.0,M,Other,Tampa,FL,,attack,Foot,False
+2289,2289,William David Whetstone,03/02/17,Gunshot,gun,33.0,M,White,Hickory,NC,,attack,Not fleeing,True
+1515,1515,Teodoro Valencia,11/03/16,Gunshot,gun,23.0,M,Hispanic,Newark,CA,,attack,Foot,False
+2575,2575,Ryan Lowell,12/05/17,Gunshot,gun,30.0,M,White,Billings,MT,,attack,Not fleeing,False
+2097,2097,Derek Lynn Scott,02/12/16,Gunshot,gun,33.0,M,White,Tuscumbia,AL,,attack,Not fleeing,False
+2471,2471,Fred Ratliff,29/03/17,Gunshot,gun,45.0,M,White,Lawrenceburg,KY,,attack,Not fleeing,False
+1052,1052,Mario Woods,02/12/15,Gunshot,knife,26.0,M,Other,San Francisco,CA,,other,Not fleeing,False
+967,967,Mario Martinez,30/10/15,Gunshot,gun,29.0,M,Hispanic,Mesquite,TX,,attack,Car,False
+2795,2795,Walter Lynde,23/07/17,Gunshot,toy weapon,49.0,M,White,Spencer,MA,,attack,Car,False
+1703,1703,Joseph Mann,11/07/16,Gunshot,knife,50.0,M,Other,Sacramento,CA,,other,Not fleeing,True
+262,262,Brian Babb,30/03/15,Gunshot,gun,49.0,M,White,Eugene,OR,,attack,Not fleeing,False
+2201,2201,Hector Navarrete,07/01/17,Gunshot,vehicle,31.0,M,Hispanic,Northglenn,CO,,other,Not fleeing,False
+2032,2032,Evan Cox,08/11/16,Gunshot,vehicle,26.0,M,White,Ashtabula,OH,,attack,Car,False
+347,347,Cody Karasek,28/01/15,Gunshot,gun,26.0,M,White,Rosenberg,TX,,attack,Not fleeing,False
+1186,1186,Levi Gene Wilson,18/01/16,Gunshot,gun,39.0,M,White,Phoenix,AZ,,attack,Not fleeing,False
+2364,2364,Jesse Enjaian,17/02/17,Gunshot,gun,32.0,M,White,Oakland,CA,,attack,Not fleeing,False
+741,741,John Unsworth,15/08/15,Gunshot & Taser,unarmed,43.0,M,White,Hanover,IN,,attack,Not fleeing,False
+113,113,John Barry Marshall,30/01/15,Gunshot,gun,48.0,M,White,Billings,MT,,attack,Foot,False
+2740,2740,Cody Ray McCray,04/07/17,Gunshot,vehicle,32.0,M,Other,Centerville,UT,,undetermined,Car,False
+444,444,Justin Way,11/05/15,Gunshot,machete,28.0,M,White,St. Augustine,FL,,other,Not fleeing,False
+2715,2715,James A. Burton,14/05/17,Gunshot,gun,48.0,M,White,Pulaski,VA,,attack,Not fleeing,False
+1559,1559,Joshua Beebee,20/05/16,Gunshot,knife,31.0,M,Other,Omaha,NE,,other,Foot,True
+1849,1849,Joseph Moreno,02/09/16,Gunshot,gun,38.0,M,Hispanic,Alamogordo,NM,,attack,Foot,True
+706,706,Keshawn Dominique Hargrove,05/08/15,Gunshot,gun,20.0,M,Other,Richmond,VA,,attack,Foot,False
+1205,1205,Johnathan Bratcher,27/01/16,Gunshot,gun,32.0,M,Other,Memphis,TN,,attack,Other,True
+1742,1742,Paul O'Neal,28/07/16,Gunshot,vehicle,18.0,M,Other,Chicago,IL,,other,Car,True
+528,528,Jacob Haglund,02/02/15,Gunshot,gun,17.0,M,White,Bay City,MI,,attack,Not fleeing,False
+548,548,Deng Manyoun,13/06/15,Gunshot,flagpole,35.0,M,Other,Louisville,KY,,other,Not fleeing,False
+2207,2207,Michael Rogers,10/01/17,Gunshot,knife,32.0,M,White,Los Angeles,CA,,other,Not fleeing,False
+1272,1272,Dyzhawn L. Perkins,13/02/16,Gunshot,unarmed,19.0,M,Other,Arvonia,VA,,attack,Not fleeing,False
+197,197,Fednel Rhinvil,03/03/15,Gunshot,gun,25.0,M,Other,Salisbury,MD,,attack,Not fleeing,False
+1387,1387,Joshua Douglas,19/03/16,Gunshot,undetermined,24.0,M,White,Covington,LA,,undetermined,Car,False
+1034,1034,Magnum Edgar Phillips,25/11/15,Gunshot,knife,23.0,M,White,Springfield,MO,,attack,Not fleeing,False
+2322,2322,Jocques Scott Clemmons,10/02/17,Gunshot,gun,31.0,M,Other,Nashville,TN,,other,Foot,False
+1078,1078,Javario Shante Eagle,12/12/15,Gunshot,gun and knife,24.0,M,Other,Chattanooga,TN,,attack,Not fleeing,False
+2589,2589,Keith Andrew Chesser,15/05/17,Gunshot,crossbow,48.0,M,White,Wewoka,OK,,attack,Not fleeing,False
+690,690,Philip Vallejo,30/07/15,Gunshot,gun,30.0,M,Hispanic,Fort Worth,TX,,attack,Not fleeing,False
+2188,2188,Dale Hightower,03/01/17,Gunshot,gun,53.0,M,White,Gilmer,TX,,attack,Not fleeing,True
+2333,2333,Bryan Devin Carreno,12/02/17,Gunshot,knife,26.0,M,Hispanic,Santa Barbara,CA,,other,Foot,False
+2532,2532,Juan Manuel Avilla,25/04/17,Gunshot,vehicle,20.0,M,Hispanic,Bellflower,CA,,other,Car,False
+1653,1653,Dylan Noble,25/06/16,Gunshot,unarmed,19.0,M,White,Fresno,CA,,other,Car,True
+693,693,Jeremy  Hatch,31/07/15,Gunshot,gun,34.0,M,White,Roswell,NM,,attack,Not fleeing,False
+1632,1632,Raufeal M. Bostick,20/06/16,Gunshot,gun,23.0,M,Other,Hardeeville,SC,,attack,Not fleeing,False
+1357,1357,Peter Gaines,12/03/16,Gunshot & Taser,unarmed,37.0,M,Other,Houston,TX,,other,Foot,False
+163,163,Janisha Fonville,18/02/15,Gunshot,undetermined,20.0,F,Other,Charlotte,NC,,other,Not fleeing,False
+1431,1431,Darrin Andrew Martin,03/04/16,Gunshot,gun,25.0,M,White,Austin,TX,,attack,Foot,False
+730,730,Randall Lance Hughes,11/08/15,Gunshot & Taser,knife,48.0,M,White,Waco,TX,,other,Not fleeing,False
+510,510,Edelmiro Hernandez,03/06/15,Gunshot,knife,33.0,M,Hispanic,Fuqua,TX,,other,Car,False
+821,821,Martin Francis Hammen,13/09/15,Gunshot,gun,39.0,M,White,Wellman,IA,,attack,Not fleeing,False
+962,962,Jasper Levi Adams,28/10/15,Gunshot,gun,35.0,M,White,Salem,OR,,attack,Car,False
+992,992,Kim Lee Long,06/11/15,Gunshot,undetermined,48.0,M,White,Wadesboro,NC,,undetermined,Not fleeing,False
+621,621,Dallas Shatley,08/07/15,Gunshot,vehicle,62.0,M,White,Ashe County,NC,,attack,Car,True
+2157,2157,Anthony Lovell Eddington,21/12/16,Gunshot,gun,24.0,M,Other,Coalinga,CA,,attack,Not fleeing,False
+436,436,Nephi Arriguin,07/05/15,Gunshot,vehicle,21.0,M,Other,Cerritos,CA,,attack,Car,False
+2002,2002,Jun Wang,28/10/16,Gunshot,knife,45.0,M,Black,North Royalton,OH,,attack,Not fleeing,False
+391,391,William Chapman,22/04/15,Gunshot,unarmed,18.0,M,Other,Portsmouth,VA,,undetermined,Not fleeing,False
+930,930,Dequan Williams,17/10/15,Gunshot & Taser,knife,28.0,M,Other,York,PA,,other,Not fleeing,False
+1282,1282,Guadalupe Sauceda,15/02/16,Gunshot,gun,52.0,M,Hispanic,Jal,NM,,attack,Not fleeing,False
+786,786,William Evans,28/08/15,Gunshot,gun,28.0,M,White,Spanish Fork,UT,,attack,Not fleeing,True
+1855,1855,Cameron Ayers,03/09/16,Gunshot,undetermined,25.0,M,White,East Wenatchee,WA,,undetermined,Not fleeing,False
+2410,2410,Jesus Alberto Geney,09/03/17,Gunshot & Taser,knife,24.0,M,Hispanic,Santa Clara,CA,,other,,False
+234,234,Denzel Brown,22/03/15,Gunshot & Taser,undetermined,21.0,M,Other,Islip,NY,,attack,Car,False
+2280,2280,Tavis Crane,01/02/17,Gunshot,vehicle,23.0,M,Other,Arlington,TX,,attack,Car,False
+2151,2151,William Newman,21/12/16,Gunshot,vehicle,46.0,M,Other,Knox,IN,,other,,False
+1210,1210,Nathan Lee Bailey,27/01/16,Gunshot,gun,30.0,M,White,Mansfield,TX,,attack,Car,False
+123,123,Izzy Colon,04/02/15,Gunshot,gun,37.0,M,Hispanic,Orlando,FL,,attack,Not fleeing,False
+1232,1232,Edgar Rene Alvarado,01/02/16,Gunshot,gun,21.0,M,Hispanic,Albuquerque,NM,,attack,Car,True
+534,534,Mark Smith,09/04/15,Gunshot & Taser,vehicle,54.0,M,Other,Kellyville,OK,,attack,Other,False
+1917,1917,Jamie Joseph Lewis,26/09/16,Gunshot,gun,48.0,M,White,Burnsville,MN,,other,Not fleeing,True
+376,376,Erik Tellez,18/04/15,Gunshot,gun,43.0,M,Hispanic,Phoenix,AZ,,attack,Not fleeing,False
+774,774,Todd Tomlinson,25/08/15,Gunshot,gun,53.0,M,White,Thonotosassa,FL,,attack,Not fleeing,False
+2660,2660,Emmett Edward Hall,10/06/17,Gunshot,knife,60.0,M,White,Abilene,TX,,other,Not fleeing,False
+517,517,Gene Marshall,07/06/15,Gunshot,gun,58.0,M,White,Woodland,WA,,attack,Not fleeing,False
+598,598,Arturo Lopez,03/07/15,Gunshot,gun,46.0,M,Hispanic,Lancaster,CA,,attack,Not fleeing,False
+1035,1035,Douglas R. Slade,25/11/15,Gunshot,gun,52.0,M,White,Eagar,AZ,,attack,Not fleeing,False
+2332,2332,Darryl L. Fuqua,10/02/17,Gunshot,gun,23.0,M,Other,Bridgeton,NJ,,undetermined,Foot,False
+2736,2736,TK TK,03/07/17,Gunshot,gun,,M,Other,Portland,OR,,attack,Foot,False
+2034,2034,Daniel Erickson,09/11/16,Gunshot,gun,36.0,M,White,Show Low,AZ,,attack,Not fleeing,False
+1812,1812,Bobby Lyn Buck,23/08/16,Gunshot,gun,49.0,M,White,Myra,TX,,other,Car,False
+2809,2809,Sergio Velasco-Martinez,27/07/17,Gunshot,blunt object,25.0,M,Other,Avenal,CA,,attack,Not fleeing,False
+1137,1137,Keith Childress,31/12/15,Gunshot,unarmed,23.0,M,Other,Las Vegas,NV,,other,Not fleeing,True
+363,363,Colby Robinson,14/04/15,Gunshot,undetermined,26.0,M,Other,DeSoto,TX,,undetermined,Foot,False
+1077,1077,Shirley  Weis,13/12/15,Gunshot,gun,51.0,F,White,Arlington,TX,,attack,Not fleeing,False
+1454,1454,Efren Eloy Trujillo,11/04/16,Gunshot,gun,22.0,M,Hispanic,Las Vegas,NV,,attack,Not fleeing,False
+1208,1208,Thongsavanh Vandarack,27/01/16,Gunshot,toy weapon,40.0,M,Black,Lenoir City,TN,,other,Not fleeing,False
+37,37,Thomas Hamby,08/01/15,Gunshot,gun,49.0,M,White,Syracuse,UT,,attack,Not fleeing,True
+1452,1452,Arturo Yobani-Torrez Valdez,10/04/16,Gunshot,knife,28.0,M,Hispanic,Los Angeles,CA,,attack,Not fleeing,False
+1342,1342,Brandon Stanley,04/03/16,Gunshot,unarmed,30.0,M,White,East Berstadt,KY,,undetermined,Not fleeing,False
+1974,1974,Eric St. Germain,17/10/16,Gunshot & Taser,knife,39.0,M,White,Holiday,FL,,other,Not fleeing,False
+1116,1116,Michael Hilber,22/12/15,Gunshot,undetermined,29.0,M,White,Brooksville,FL,,undetermined,Car,False
+1638,1638,Devin Christopher Scott,20/06/16,Gunshot & Taser,knife,20.0,M,White,Lake Havasu City,AZ,,other,Not fleeing,True
+1747,1747,Amanda Page Bivens,29/07/16,Gunshot,gun,40.0,F,White,Homewood,AL,,attack,Not fleeing,False
+2223,2223,Darrion Barnhill,10/01/17,Gunshot & Taser,unarmed,23.0,M,Other,Reagan,TN,,attack,Not fleeing,False
+2487,2487,Richard Xavier Summers,06/04/17,Gunshot,gun,49.0,M,Other,Largo,FL,,attack,Not fleeing,False
+233,233,Christopher Ryan Healy,22/03/15,Gunshot & Taser,knife,36.0,M,White,Portland,OR,,other,Foot,False
+1472,1472,Edson Thevenin,17/04/16,Gunshot,vehicle,37.0,M,Other,Troy,NY,,attack,Car,False
+2448,2448,Charles Harris,22/03/17,Gunshot,knife,42.0,M,White,Booneville,KY,,other,Not fleeing,False
+397,397,Lue Vang,22/04/15,Gunshot,gun,39.0,M,Black,Eldorado Springs,CO,,attack,Not fleeing,False
+2083,2083,Abdul Razak Ali Artan,28/11/16,Gunshot,knife,18.0,M,Other,Columbus,OH,,attack,Not fleeing,False
+1400,1400,Daven Scott Hannu,23/03/16,Gunshot,gun,51.0,M,White,Thornton,CO,,attack,Not fleeing,False
+1986,1986,Nathaniel B. Dorough,22/10/16,Gunshot,unknown weapon,21.0,M,White,Westover,AL,,other,Not fleeing,False
+910,910,Margaret Wagner,09/10/15,Gunshot,gun,62.0,F,Other,Aguanga,CA,,attack,Not fleeing,False
+443,443,David Schwalm,08/05/15,Gunshot,gun,58.0,M,White,Constantia,NY,,attack,Not fleeing,False
+1729,1729,Robert Lee Lourenco,24/07/16,Gunshot,hatchet and gun,36.0,M,White,Winchester,CA,,attack,Not fleeing,False
+1629,1629,Nicholas Damon,16/06/16,Gunshot,vehicle,30.0,M,Hispanic,Westminster,CO,,attack,Car,False
+2730,2730,Quintec Locke,01/07/17,Gunshot,gun,37.0,M,Other,Lawndale,IL,,other,Not fleeing,True
+2024,2024,Jimmy L. Testa,06/11/16,Gunshot,metal pipe,31.0,M,White,Maurice River,NJ,,other,Foot,False
+1133,1133,Siolosega Velega-Nuufolau,29/12/15,Gunshot,knife,50.0,F,Other,Santa Nella,CA,,other,Not fleeing,False
+1424,1424,Kimani Johnson,31/03/16,Gunshot,gun,18.0,M,Other,Baltimore,MD,,attack,Not fleeing,False
+2132,2132,Jimmy Lee Lawson,17/12/16,Gunshot,knife,48.0,M,White,Arlington,TN,,undetermined,Not fleeing,False
+1487,1487,Jakob E. Wagner,23/04/16,Gunshot,gun,18.0,M,White,Antigo,WI,,attack,Not fleeing,False
+1408,1408,Mario Sandoval,24/03/16,Gunshot,gun,19.0,M,Hispanic,Pueblo of Laguna,NM,,attack,Not fleeing,True
+208,208,Clifton Reintzel,14/03/15,Gunshot,knife,53.0,M,White,Follansbee,WV,,other,Not fleeing,False
+205,205,Anthony Hill,09/03/15,Gunshot,unarmed,27.0,M,Other,Atlanta,GA,,other,Not fleeing,False
+1898,1898,Dahir Adan,17/09/16,Gunshot,knife,22.0,M,Other,St. Cloud,MN,,attack,Not fleeing,False
+739,739,Hector Rene Sorriano Gonzalez,14/08/15,Gunshot,gun,26.0,M,Hispanic,Boerne,TX,,attack,Not fleeing,False
+1694,1694,Philando Castile,06/07/16,Gunshot,gun,32.0,M,Other,Falcon Heights,MN,,other,Not fleeing,False
+2192,2192,Welby O'Dell Mullins,04/01/17,Gunshot,gun,64.0,M,White,Lancaster,KY,,attack,Not fleeing,False
+870,870,Alejandro Lerma,26/09/15,Gunshot,gun,23.0,M,Hispanic,Lovington,NM,,attack,Not fleeing,False
+167,167,Jason Moncrief Carter,21/02/15,Gunshot,gun,41.0,M,White,Ruidoso,NM,,attack,Not fleeing,False
+433,433,Joseph Roy,07/05/15,Gunshot,knife,72.0,M,Other,Lawrenceville,GA,,other,Not fleeing,False
+2590,2590,Daniel George Boak,17/05/17,Gunshot,vehicle,28.0,M,White,Arlington,VA,,attack,Car,False
+1061,1061,Sheilah Huck,05/12/15,Gunshot,gun,61.0,F,White,St. Louis,MO,,attack,Not fleeing,False
+1360,1360,Wesley Chad Deerman,13/03/16,Gunshot,gun,26.0,M,White,Piedmont,AL,,attack,Car,False
+401,401,Karen Janks,24/04/15,Gunshot,vehicle,46.0,F,White,Windsor,CA,,attack,Car,False
+479,479,Jessie  Williams,26/05/15,Gunshot,undetermined,24.0,M,White,Bossier City,LA,,attack,Not fleeing,False
+1495,1495,Damon Blair,27/04/16,Gunshot,gun,21.0,M,White,Westminster,CO,,attack,Not fleeing,False
+2618,2618,Shawn Buck,25/05/17,Gunshot,gun,23.0,M,White,Fairbanks,AK,,attack,Car,False
+934,934,Dion Lamont Ramirez,19/10/15,Gunshot,vehicle,53.0,M,Other,Los Angeles,CA,,attack,Not fleeing,False
+883,883,Edixon  Franco,10/03/15,Gunshot,sword,37.0,M,Hispanic,Ontario,CA,,other,Car,False
+542,542,Raymond  Phillips,11/06/15,Gunshot,gun,86.0,M,Other,Columbia,TN,,attack,Not fleeing,False
+981,981,Timothy Gene Smith,04/11/15,Gunshot,unarmed,47.0,M,White,Pacific Beach,CA,,other,Foot,True
+2013,2013,Rita King,03/11/16,Gunshot,gun,56.0,F,Other,Loganville,GA,,attack,Not fleeing,False
+923,923,Martin  Ryans Jr.,15/10/15,Gunshot,gun,20.0,M,Other,Houston,TX,,attack,Not fleeing,False
+2232,2232,Daniel Darnell Stroughter,18/01/17,Gunshot,hatchet,50.0,M,White,Los Angeles,CA,,other,Car,False
+581,581,William Russell  Smith,11/03/15,Gunshot,gun,53.0,M,White,Hoover,AL,,attack,Not fleeing,False
+2801,2801,Alexander J. Schoessel,25/07/17,Gunshot,ax,23.0,M,White,Richmond,VA,,other,Foot,False
+2302,2302,Michael Sword,02/02/17,Gunshot,gun,57.0,M,White,Orange Park,FL,,other,Not fleeing,False
+1891,1891,Philip Hasan,18/09/16,Gunshot,gun,61.0,M,Other,Akron,OH,,other,Not fleeing,False
+769,769,Christopher Ray Tompkins,23/08/15,Gunshot,gun,36.0,M,White,Arab,AL,,attack,Car,False
+1190,1190,Jim Redmond,19/01/16,Gunshot,gun,28.0,M,White,Valdosta,GA,,attack,Not fleeing,False
+1254,1254,David Brian Evans,10/02/16,Gunshot,gun,67.0,M,White,Abingdon,MD,,attack,Not fleeing,False
+1789,1789,Carl Nivens,16/08/16,Gunshot,gun,32.0,M,White,Lenoir,NC,,attack,Foot,True
+609,609,Adam Dujanovic,07/07/15,Gunshot,metal pole,33.0,M,White,Mesa,AZ,,other,Not fleeing,False
+1399,1399,Travis J. Blair,22/03/16,Gunshot,vehicle,33.0,M,White,Fredericksburg,VA,,attack,Other,True
+1006,1006,Ramon Salazar,14/11/15,Gunshot,hammer,31.0,M,Hispanic,Jurupa Valley,CA,,other,Not fleeing,False
+2544,2544,Peter Raymond Selis,30/04/17,Gunshot,gun,49.0,M,White,University City,CA,,attack,Not fleeing,False
+1631,1631,Rashaun Lloyd,19/06/16,Gunshot,gun,25.0,M,Other,New York,NY,,attack,Not fleeing,False
+2222,2222,Jahlire Nicholson,14/01/17,Gunshot & Taser,screwdriver,28.0,M,Other,New York,NY,,attack,Not fleeing,False
+1721,1721,Jerry Brimer,18/07/16,Gunshot,ax,56.0,M,White,Tulsa,OK,,other,Not fleeing,False
+2166,2166,Zhonghua Li,24/12/16,Gunshot,scissors,48.0,M,Black,Pico Rivera,CA,,attack,Not fleeing,False
+130,130,Betty Sexton,17/02/15,Gunshot,gun,43.0,F,White,Gaston County,NC,,attack,Not fleeing,False
+1791,1791,Colby Friday,16/08/16,Gunshot,gun,30.0,M,Other,Stockton,CA,,other,Foot,True
+366,366,Dante Noble,15/04/15,Gunshot,knife,41.0,M,Other,Spartanburg,SC,,attack,Not fleeing,False
+2469,2469,Doyle Wayne Johnson,29/03/17,Gunshot,gun,59.0,M,White,Byars,OK,,attack,Car,False
+2112,2112,Timothy Case,11/12/16,Gunshot & Taser,knife,53.0,M,White,York,NE,,other,Not fleeing,False
+2110,2110,TK TK,08/12/16,Gunshot,gun,,M,Other,Allen,TX,,attack,Not fleeing,False
+2146,2146,Ian Shea King,21/12/16,Gunshot,tire iron,31.0,M,Other,Ponca City,OK,,other,Not fleeing,False
+2400,2400,Joseph Scott Inabinet,04/03/17,Gunshot,gun,50.0,M,White,Fountain Inn,SC,,attack,Not fleeing,False
+2708,2708,Miguel Angel Silva,02/02/17,Gunshot,gun,18.0,M,Hispanic,Wichita Falls,TX,,undetermined,Not fleeing,False
+467,467,Jonathan  Colley,20/05/15,Gunshot & Taser,knife,52.0,M,White,Green,OH,,other,Not fleeing,False
+2204,2204,Jason Aldridge,08/01/17,Gunshot,knife,44.0,M,White,Cumming,GA,,other,Not fleeing,False
+679,679,Khari Westly,26/07/15,Gunshot,gun,33.0,M,Other,Shreveport,LA,,attack,Not fleeing,False
+1473,1473,Gerald Robert Boyes,16/04/16,Gunshot,gun,53.0,M,White,Antioch,IL,,attack,Not fleeing,False
+2160,2160,James Tylka,25/12/16,Gunshot,gun,30.0,M,White,King City,OR,,attack,Car,False
+932,932,Krikor Ekizian,18/10/15,Gunshot,knife,28.0,M,White,Fresno,CA,,attack,Not fleeing,False
+1806,1806,Kole B. Knight,19/08/16,Gunshot,toy weapon,31.0,M,White,New London,WI,,attack,Not fleeing,True
+225,225,Kaylene Stone,18/03/15,Gunshot,gun,49.0,F,White,Glendale,AZ,,attack,Not fleeing,False
+1954,1954,Luis Michael Hoff,09/10/16,Gunshot,gun,40.0,M,White,Scottsdale,AZ,,other,Car,False
+160,160,Matthew Lundy,17/02/15,Gunshot,gun,32.0,M,White,Eaton Rapids Township,MI,,attack,Not fleeing,False
+368,368,Mark W. Adair,15/04/15,Gunshot,toy weapon,51.0,M,White,Columbia,MO,,attack,Car,True
+700,700,Shawn Ruble,03/08/15,Gunshot,toy weapon,35.0,M,White,Muncie,IN,,attack,Not fleeing,False
+2375,2375,Jimmie Patton,23/02/17,Gunshot,gun,38.0,M,White,Columbus,OH,,attack,Not fleeing,False
+2346,2346,Kadeem Torres,16/02/17,Gunshot,gun,17.0,M,Other,Brooklyn,NY,,attack,Foot,False
+357,357,Richard Dale Weaver,12/04/15,Gunshot,machete,83.0,M,White,Oklahoma City,OK,,other,Not fleeing,False
+1179,1179,Clarence Layfield,16/01/16,Gunshot,vehicle,55.0,M,White,Petroleum,WV,,other,Car,False
+2411,2411,Steven Schiltz,09/03/17,Gunshot,baseball bat and bottle,29.0,M,White,Huntington Beach,CA,,other,Not fleeing,False
+459,459,Austin Goodner,17/05/15,Gunshot,gun,18.0,M,White,St. Petersburg,FL,,attack,Not fleeing,False
+2551,2551,Jason Sebastian Roque,02/05/17,Gunshot,gun,20.0,M,Hispanic,Austin,TX,,other,Not fleeing,False
+1641,1641,Josiah Williams,22/06/16,Gunshot,gun,25.0,M,White,Colorado Springs,CO,,attack,Not fleeing,False
+2670,2670,Hector Cisneros Soria,16/06/17,Gunshot,gun,30.0,M,Other,Rialto,CA,,other,Not fleeing,True
+760,760,Charles S. Hall,21/08/15,Gunshot,vehicle,30.0,M,White,North East,MD,,attack,Car,False
+1780,1780,Sylville Smith,13/08/16,Gunshot,gun,23.0,M,Other,Milwaukee,WI,,other,Foot,True
+2667,2667,James T. Hodgkinson,14/06/17,Gunshot,gun,66.0,M,White,Alexandria,VA,,attack,Not fleeing,False
+373,373,Rodolfo Velazquez,16/04/15,Gunshot,knife,47.0,M,Hispanic,Shafter,CA,,other,Not fleeing,False
+1474,1474,Sylasone Ackhavong,19/04/16,Gunshot,gun,41.0,M,Black,Charlotte,NC,,attack,Not fleeing,False
+2262,2262,Donovan Paul Scheurich,25/01/17,Gunshot,gun,50.0,M,White,Millston,WI,,attack,Not fleeing,True
+1092,1092,Mharloun Verdejo  Saycon,14/12/15,Gunshot,knife,39.0,M,Black,Long Beach,CA,,other,Not fleeing,False
+539,539,Ryan Bolinger,09/06/15,Gunshot,unarmed,28.0,M,White,Des Moines,IA,,other,Car,False
+2081,2081,Richard Grimes,27/11/16,Gunshot,gun,33.0,M,Other,Chicago,IL,,attack,Foot,False
+1911,1911,Anthony Ray Bauer,26/09/16,Gunshot,gun,52.0,M,White,Garden City,ID,,attack,Other,False
+2822,2822,Rodney E. Jacobs,28/07/17,Gunshot,gun,31.0,M,Other,Kansas City,MO,,attack,Not fleeing,False
+2254,2254,Arties Manning,24/01/17,Gunshot,gun,26.0,M,Other,New Orleans,LA,,attack,Car,True
+349,349,Chris Ingram,27/01/15,Gunshot,gun,29.0,M,White,Morenci,AZ,,attack,Not fleeing,False
+2725,2725,Chet Knuppel,30/06/17,Gunshot,undetermined,23.0,M,Other,Loveland,CO,,attack,Foot,False
+1727,1727,Bernard Wells,23/07/16,Gunshot,gun,31.0,M,Other,Chino,CA,,attack,Foot,False
+1112,1112,Robert L. Teter,21/12/15,Gunshot,gun,39.0,M,White,Deltona,FL,,attack,Not fleeing,False
+901,901,Bernard Brandon Powers,11/10/15,Gunshot,gun,23.0,M,Other,Taylors,SC,,attack,Not fleeing,False
+250,250,Adrian Solis,26/03/15,Gunshot,knife,35.0,M,Hispanic,Wilmington,CA,,other,Not fleeing,False
+1816,1816,Donta Taylor,25/08/16,Gunshot,gun,31.0,M,Other,Compton,CA,,attack,Foot,False
+1948,1948,Christopher Darnell Shackleford,07/10/16,Gunshot,gun,,M,Other,Alexandria,LA,,attack,Not fleeing,False
+1402,1402,Raymond Gonzalez,23/03/16,Gunshot,gun,34.0,M,Hispanic,Fresno,CA,,attack,Foot,True
+1542,1542,Jabril Robinson,16/05/16,Gunshot,gun,23.0,M,Other,Riverdale,GA,,attack,Foot,False
+1547,1547,Jeremias Cruz,19/05/16,Gunshot,unarmed,30.0,M,Hispanic,Las Vegas,NV,,attack,Not fleeing,False
+1069,1069,Christopher Higdon,09/12/15,Gunshot,gun,66.0,M,White,Leitchfield,KY,,attack,Not fleeing,False
+2584,2584,TK TK,15/05/17,Gunshot,undetermined,,M,Other,Long Beach,CA,,attack,Other,False
+1344,1344,Randall J. Selsor,07/03/16,Gunshot,undetermined,45.0,M,White,Topeka,KS,,undetermined,Not fleeing,False
+487,487,Jerome Caldwell,21/05/15,Gunshot,gun,32.0,M,Other,Charleston,SC,,attack,Not fleeing,False
+1692,1692,Joshua Bolster,05/07/16,Gunshot,undetermined,29.0,M,White,Salem,OR,,undetermined,,False
+1770,1770,James Quealy,05/08/16,Gunshot,gun,59.0,M,White,Beaver Dam,WI,,attack,Not fleeing,False
+1459,1459,Rodney Watts,13/04/16,Gunshot,undetermined,35.0,M,Other,Stockton,CA,,attack,Not fleeing,False
+398,398,Kimber Key,21/04/15,Gunshot,knife,59.0,M,White,Irmo,SC,,other,Not fleeing,False
+724,724,Robert Patrick Quinn,09/08/15,Gunshot,toy weapon,77.0,M,Other,Pittston,PA,,attack,Not fleeing,False
+1710,1710,Dayten Ernest Harper,14/07/16,Gunshot,gun,33.0,M,Other,Baltimore,MD,,attack,Not fleeing,False
+137,137,Desmond Luster,09/02/15,Gunshot,gun,45.0,M,Other,Dallas,TX,,attack,Not fleeing,False
+1599,1599,Omar Villagomez,07/06/16,Gunshot,vehicle,21.0,M,Hispanic,Turlock,CA,,other,Not fleeing,False
+1110,1110,Michael Noel,21/12/15,Gunshot,unarmed,,M,Other,Breaux Bridge,LA,,other,Not fleeing,False
+1944,1944,Larry Daniel Matthews,07/10/16,Gunshot,,57.0,M,Other,Macon,GA,,other,Not fleeing,False
+655,655,Jackie Brand,17/07/15,Gunshot,gun,50.0,M,White,Needles,CA,,attack,Not fleeing,False
+2278,2278,TK TK,31/01/17,Gunshot & Taser,knife,,M,Other,Hollywood,CA,,attack,Not fleeing,False
+2815,2815,Dwayne Jeune,31/07/17,Gunshot,knife,32.0,M,Other,Brooklyn,NY,,attack,Not fleeing,False
+2718,2718,Rodney L. Cole,28/06/17,Gunshot,screwdriver,37.0,M,Other,Nashville,TN,,attack,Not fleeing,False
+768,768,Richard Francis Compo,23/08/15,Gunshot,gun,36.0,M,White,Jacksonville,FL,,attack,Not fleeing,False
+2482,2482,Michael Alcaraz,05/04/17,Gunshot,gun,19.0,M,Hispanic,Goshen,IN,,attack,Car,False
+248,248,Terry Garnett Jr.,11/03/15,Gunshot,vehicle,37.0,M,Other,Elkton,MD,,other,Not fleeing,False
+2706,2706,Matthew Zank,28/01/17,Gunshot,toy weapon,48.0,M,White,Eau Claire,WI,,attack,Not fleeing,False
+1153,1153,Alan Huberth Franco-Armenta,06/01/16,Gunshot,gun,32.0,M,Hispanic,Carrizozo,NM,,attack,Not fleeing,False
+2777,2777,Ramiro Bravo Ramirez,14/07/17,Gunshot,gun,34.0,M,Other,Greenville,SC,,attack,Not fleeing,True
+1121,1121,Lonnie Niesen,26/12/15,Gunshot,brick,41.0,M,White,Phoenix,AZ,,other,Not fleeing,False
+2049,2049,Robert Daffern,15/11/16,Gunshot,gun,37.0,M,White,Webster,TX,,attack,Not fleeing,False
+633,633,Matthew Watson,12/07/15,Gunshot,gun,24.0,M,White,River Forest,IL,,attack,Not fleeing,False
+1773,1773,James Eugene Burgess,08/08/16,Gunshot,gun,64.0,M,White,Wilkesboro,NC,,attack,Not fleeing,False
+2249,2249,Daniel D. Rogers,23/01/17,Gunshot,unarmed,27.0,M,White,Springfield,IL,,attack,Not fleeing,True
+2610,2610,Shaquian Tyrone Johnson,28/05/17,Gunshot,gun,22.0,M,Other,Cary,NC,,attack,Not fleeing,False
+2352,2352,Keo Crockett,18/02/17,Gunshot,gun,46.0,M,Other,Efland,NC,,attack,Not fleeing,False
+735,735,Reginald Marshall,12/08/15,Gunshot,gun,27.0,M,Other,Toledo,OH,,attack,Car,False
+1238,1238,Scott Harless,04/02/16,Gunshot,gun,47.0,M,White,Kansas City,MO,,attack,Foot,False
+2771,2771,Dorsey Glenn Taulbee Jr.,12/07/17,Gunshot,gun,33.0,M,Other,Oklahoma City,OK,,attack,Not fleeing,False
+191,191,Ian Sherrod,28/02/15,Gunshot,gun,40.0,M,Other,Tarboro,NC,,attack,Car,False
+1797,1797,Chad Irwin,18/08/16,Gunshot,knife,40.0,M,White,Antelope,CA,,other,Not fleeing,False
+2124,2124,Jonathan M. Young,13/11/16,Gunshot & Taser,baseball bat,38.0,M,Other,Bloomsburg,PA,,attack,Not fleeing,False
+1316,1316,Francisco Garcia,24/02/16,Gunshot,vehicle,26.0,M,Hispanic,Cerritos,CA,,attack,Not fleeing,False
+1075,1075,Steven Wickert,11/12/15,Gunshot,unarmed,36.0,M,White,Tucson,AZ,,attack,Not fleeing,False
+2565,2565,TK TK,09/05/17,Gunshot,gun,,M,Other,Westminster,CO,,attack,Not fleeing,False
+45,45,Salvador Figueroa,11/01/15,Gunshot & Taser,gun,29.0,M,Hispanic,North Las Vegas,NV,,attack,Foot,False
+198,198,Matthew Metz,03/03/15,Gunshot,knife,25.0,M,White,Tempe,AZ,,attack,Not fleeing,False
+1752,1752,Limichael Shine,31/07/16,Gunshot,knife,18.0,M,Black,Manchester,NJ,,other,Not fleeing,True
+427,427,Elton Simpson,03/05/15,Gunshot,gun,30.0,M,Other,Garland,TX,,attack,Not fleeing,False
+1719,1719,Cody Wayne Jarrett,16/07/16,Gunshot & Taser,gun,26.0,M,White,San Bernardino,CA,,attack,Other,False
+2686,2686,Jacob Faulkner,20/06/17,Gunshot,gun,32.0,M,White,St. Clair Township,OH,,attack,Other,False
+1983,1983,William Frost,21/10/16,Gunshot & Taser,knife,58.0,M,White,Tulsa,OK,,other,,False
+2270,2270,Jeremy Dowell,30/01/17,Gunshot,knife,36.0,M,White,Lynnwood,WA,,other,Not fleeing,False
+2769,2769,Antonio Garcia Jr.,11/07/17,Gunshot,undetermined,47.0,M,Other,Leavenworth,KS,,undetermined,Not fleeing,False
+952,952,Darren Myron Fude,24/10/15,Gunshot,gun,47.0,M,White,Paddock Lake,WI,,attack,Not fleeing,False
+773,773,Curtis Smith,25/08/15,Gunshot,knife,34.0,M,Other,West Chester,PA,,attack,Not fleeing,False
+1684,1684,Shannon Labit,03/07/16,Gunshot,knife,40.0,M,White,New Iberia,LA,,other,Not fleeing,False
+408,408,Brandon Lawrence,25/04/15,Gunshot,machete,25.0,M,White,Victoria,TX,,other,Not fleeing,True
+441,441,D'Angelo Stallworth,12/05/15,Gunshot,gun,28.0,M,Other,Jacksonville,FL,,other,Foot,False
+673,673,Tamala Satre,23/07/15,Gunshot,gun,44.0,F,White,Meadow Vista,CA,,attack,Not fleeing,False
+1586,1586,Michael Johnson,01/06/16,Gunshot,gun,21.0,M,Other,Newnan,GA,,attack,Foot,True
+1567,1567,Mario Montoya,24/05/16,Gunshot,gun,31.0,M,Hispanic,Albuquerque,NM,,attack,Not fleeing,False
+1335,1335,Sergio Ochoa,03/03/16,Gunshot,knife,27.0,M,Hispanic,Gilbert,AZ,,other,Car,False
+409,409,Hector Morejon,23/04/15,Gunshot,unarmed,19.0,M,Hispanic,Long Beach,CA,,other,Not fleeing,False
+380,380,Jeffrey Kemp,17/04/15,Gunshot,gun,18.0,M,Other,Chicago,IL,,attack,Foot,False
+878,878,Jack Stevens Jr.,12/09/15,Gunshot,gun,45.0,M,White,West Knox,TN,,attack,Not fleeing,False
+1863,1863,Bernard Cottrell,06/09/16,Gunshot,gun,65.0,M,Other,Spencer,WV,,attack,Car,False
+761,761,Alan Joseph Rushton,21/08/15,Gunshot,knife,38.0,M,White,Wake Forest,NC,,other,Not fleeing,False
+2310,2310,Curtis Jamal Deal,07/02/17,Gunshot,gun,18.0,M,Other,Baltimore,MD,,other,Other,True
+2086,2086,Irecas Valentine,28/11/16,Gunshot,vehicle,41.0,M,Other,Hickory,NC,,other,Car,False
+1162,1162,Alan Paul Bartley,11/01/16,Gunshot,vehicle,56.0,M,White,San Fernando,CA,,attack,Car,False
+1678,1678,Jasen Scott Ramirez,30/06/16,Gunshot,undetermined,44.0,M,Hispanic,Douglas,WY,,undetermined,Not fleeing,False
+1757,1757,Adam Jo Klimek,02/08/16,Gunshot,knife,31.0,M,White,Alexandria,MN,,other,Not fleeing,False
+1416,1416,Patrick Matthew McManamon,26/03/16,Gunshot,gun,46.0,M,White,Tampa,FL,,attack,Not fleeing,False
+1841,1841,Michael Ferguson,31/08/16,Gunshot,gun,21.0,M,White,Denver,CO,,attack,Foot,False
+975,975,James Covington,02/11/15,Gunshot,gun,62.0,M,Other,Washington,DC,,attack,Car,False
+1611,1611,Clayton Millsaps,10/06/16,Gunshot,baseball bat,29.0,M,White,Iredell County,NC,,other,Not fleeing,False
+1645,1645,Roger Ponce,22/06/16,Gunshot,knife,37.0,M,White,Wellington,FL,,other,Not fleeing,False
+2380,2380,Evin Sanna Olsen,26/02/17,Gunshot,vehicle,46.0,F,White,Ripon,CA,,other,Car,False
+1358,1358,Jose Raul Cruz,13/03/16,Gunshot,unarmed,16.0,M,Hispanic,Addison,TX,,undetermined,Car,False
+25,25,Nicholas Ryan Brickman,07/01/15,Gunshot,gun,30.0,M,White,Des Moines,IA,,attack,Car,False
+1195,1195,Lance Light,02/01/16,Gunshot,gun,54.0,M,White,Maryneal,TX,,attack,Car,False
+1644,1644,Isaiah Core,22/06/16,Gunshot,vehicle,20.0,M,Other,Birmingham,AL,,attack,Car,False
